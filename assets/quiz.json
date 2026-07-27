@@ -1,0 +1,639 @@
+[
+  {
+    "id": "q1",
+    "category": "Grammar",
+    "q": "I ___ to the office every day.",
+    "options": [
+      "go",
+      "goes",
+      "going",
+      "gone"
+    ],
+    "correct": 0,
+    "explain": "Present simple with 'I' uses the base verb 'go'."
+  },
+  {
+    "id": "q2",
+    "category": "Grammar",
+    "q": "She ___ in a bank.",
+    "options": [
+      "work",
+      "works",
+      "working",
+      "worked"
+    ],
+    "correct": 1,
+    "explain": "With he/she/it, add -s: 'works'."
+  },
+  {
+    "id": "q3",
+    "category": "Grammar",
+    "q": "Right now, they ___ football.",
+    "options": [
+      "play",
+      "plays",
+      "are playing",
+      "played"
+    ],
+    "correct": 2,
+    "explain": "Action happening now uses present continuous 'are playing'."
+  },
+  {
+    "id": "q4",
+    "category": "Grammar",
+    "q": "Yesterday, I ___ a good movie.",
+    "options": [
+      "watch",
+      "watched",
+      "watching",
+      "watches"
+    ],
+    "correct": 1,
+    "explain": "Past simple of 'watch' is 'watched'."
+  },
+  {
+    "id": "q5",
+    "category": "Grammar",
+    "q": "I have ___ my homework.",
+    "options": [
+      "finish",
+      "finished",
+      "finishing",
+      "finishes"
+    ],
+    "correct": 1,
+    "explain": "Present perfect uses the past participle 'finished'."
+  },
+  {
+    "id": "q6",
+    "category": "Grammar",
+    "q": "We ___ dinner when the phone rang.",
+    "options": [
+      "have",
+      "having",
+      "were having",
+      "has"
+    ],
+    "correct": 2,
+    "explain": "Past continuous 'were having' for an action in progress in the past."
+  },
+  {
+    "id": "q7",
+    "category": "Grammar",
+    "q": "If it rains, I ___ at home.",
+    "options": [
+      "stay",
+      "will stay",
+      "stayed",
+      "staying"
+    ],
+    "correct": 1,
+    "explain": "First conditional: if + present, 'will' + base verb."
+  },
+  {
+    "id": "q8",
+    "category": "Grammar",
+    "q": "By 2020, she ___ her degree.",
+    "options": [
+      "completed",
+      "has completed",
+      "had completed",
+      "complete"
+    ],
+    "correct": 2,
+    "explain": "Past perfect 'had completed' for an action before another past point."
+  },
+  {
+    "id": "q9",
+    "category": "Grammar",
+    "q": "English ___ all over the world.",
+    "options": [
+      "speaks",
+      "is speaking",
+      "is spoken",
+      "spoke"
+    ],
+    "correct": 2,
+    "explain": "Passive voice: 'is spoken' (be + past participle)."
+  },
+  {
+    "id": "q10",
+    "category": "Grammar",
+    "q": "He said he ___ tired.",
+    "options": [
+      "is",
+      "was",
+      "are",
+      "be"
+    ],
+    "correct": 1,
+    "explain": "Reported speech moves present 'is' to past 'was'."
+  },
+  {
+    "id": "q11",
+    "category": "Grammar",
+    "q": "I saw ___ elephant at the zoo.",
+    "options": [
+      "a",
+      "an",
+      "the",
+      "-"
+    ],
+    "correct": 1,
+    "explain": "Use 'an' before a vowel sound: an elephant."
+  },
+  {
+    "id": "q12",
+    "category": "Grammar",
+    "q": "She is ___ honest person.",
+    "options": [
+      "a",
+      "an",
+      "the",
+      "-"
+    ],
+    "correct": 1,
+    "explain": "'Honest' starts with a vowel sound (h is silent), so 'an'."
+  },
+  {
+    "id": "q13",
+    "category": "Grammar",
+    "q": "Please close ___ door.",
+    "options": [
+      "a",
+      "an",
+      "the",
+      "-"
+    ],
+    "correct": 2,
+    "explain": "'The' because both people know which specific door."
+  },
+  {
+    "id": "q14",
+    "category": "Grammar",
+    "q": "I like ___ music.",
+    "options": [
+      "a",
+      "an",
+      "the",
+      "-"
+    ],
+    "correct": 3,
+    "explain": "No article for general uncountable nouns: 'music'."
+  },
+  {
+    "id": "q15",
+    "category": "Grammar",
+    "q": "The meeting is ___ 5 o'clock.",
+    "options": [
+      "in",
+      "on",
+      "at",
+      "by"
+    ],
+    "correct": 2,
+    "explain": "Use 'at' for exact clock times."
+  },
+  {
+    "id": "q16",
+    "category": "Grammar",
+    "q": "I will see you ___ Monday.",
+    "options": [
+      "in",
+      "on",
+      "at",
+      "to"
+    ],
+    "correct": 1,
+    "explain": "Use 'on' for days."
+  },
+  {
+    "id": "q17",
+    "category": "Grammar",
+    "q": "She was born ___ 1995.",
+    "options": [
+      "in",
+      "on",
+      "at",
+      "since"
+    ],
+    "correct": 0,
+    "explain": "Use 'in' for years."
+  },
+  {
+    "id": "q18",
+    "category": "Grammar",
+    "q": "The cat is ___ the table.",
+    "options": [
+      "in",
+      "on",
+      "at",
+      "of"
+    ],
+    "correct": 1,
+    "explain": "'On' means on the surface of the table."
+  },
+  {
+    "id": "q19",
+    "category": "Grammar",
+    "q": "You ___ drink more water. It's good for you.",
+    "options": [
+      "should",
+      "must not",
+      "can't",
+      "won't"
+    ],
+    "correct": 0,
+    "explain": "'Should' gives advice."
+  },
+  {
+    "id": "q20",
+    "category": "Grammar",
+    "q": "___ you help me, please?",
+    "options": [
+      "Should",
+      "Could",
+      "Must",
+      "Did"
+    ],
+    "correct": 1,
+    "explain": "'Could' makes a polite request."
+  },
+  {
+    "id": "q21",
+    "category": "Grammar",
+    "q": "There ___ many people at the party.",
+    "options": [
+      "was",
+      "were",
+      "is",
+      "has"
+    ],
+    "correct": 1,
+    "explain": "'Many people' is plural, so 'were'."
+  },
+  {
+    "id": "q22",
+    "category": "Grammar",
+    "q": "This box is ___ than that one.",
+    "options": [
+      "heavy",
+      "heavier",
+      "heaviest",
+      "more heavy"
+    ],
+    "correct": 1,
+    "explain": "Comparative of a short adjective adds -er: 'heavier'."
+  },
+  {
+    "id": "q23",
+    "category": "Grammar",
+    "q": "He is the ___ student in the class.",
+    "options": [
+      "smart",
+      "smarter",
+      "smartest",
+      "more smart"
+    ],
+    "correct": 2,
+    "explain": "Superlative: 'the smartest'."
+  },
+  {
+    "id": "q24",
+    "category": "Grammar",
+    "q": "I enjoy ___ books.",
+    "options": [
+      "read",
+      "to read",
+      "reading",
+      "reads"
+    ],
+    "correct": 2,
+    "explain": "After 'enjoy', use the gerund 'reading'."
+  },
+  {
+    "id": "q25",
+    "category": "Grammar",
+    "q": "I want ___ English.",
+    "options": [
+      "learn",
+      "to learn",
+      "learning",
+      "learns"
+    ],
+    "correct": 1,
+    "explain": "After 'want', use the infinitive 'to learn'."
+  },
+  {
+    "id": "q26",
+    "category": "Word Usage",
+    "q": "___ raining outside.",
+    "options": [
+      "Its",
+      "It's",
+      "Its'",
+      "Is"
+    ],
+    "correct": 1,
+    "explain": "'It's' = it is."
+  },
+  {
+    "id": "q27",
+    "category": "Word Usage",
+    "q": "The dog wagged ___ tail.",
+    "options": [
+      "it's",
+      "its",
+      "its'",
+      "it is"
+    ],
+    "correct": 1,
+    "explain": "'Its' shows possession (no apostrophe)."
+  },
+  {
+    "id": "q28",
+    "category": "Word Usage",
+    "q": "Is this ___ bag?",
+    "options": [
+      "your",
+      "you're",
+      "yours'",
+      "you are"
+    ],
+    "correct": 0,
+    "explain": "'Your' shows possession."
+  },
+  {
+    "id": "q29",
+    "category": "Word Usage",
+    "q": "___ very kind.",
+    "options": [
+      "Your",
+      "You're",
+      "Yours",
+      "Yor"
+    ],
+    "correct": 1,
+    "explain": "'You're' = you are."
+  },
+  {
+    "id": "q30",
+    "category": "Word Usage",
+    "q": "Please ___ me the truth.",
+    "options": [
+      "say",
+      "tell",
+      "said",
+      "talk"
+    ],
+    "correct": 1,
+    "explain": "'Tell' is used with a person: tell me."
+  },
+  {
+    "id": "q31",
+    "category": "Word Usage",
+    "q": "She ___ a cake for the party.",
+    "options": [
+      "did",
+      "made",
+      "done",
+      "make"
+    ],
+    "correct": 1,
+    "explain": "Use 'made' when you create something."
+  },
+  {
+    "id": "q32",
+    "category": "Word Usage",
+    "q": "How ___ apples do you want?",
+    "options": [
+      "much",
+      "many",
+      "lot",
+      "little"
+    ],
+    "correct": 1,
+    "explain": "'Many' for countable nouns (apples)."
+  },
+  {
+    "id": "q33",
+    "category": "Word Usage",
+    "q": "How ___ water is left?",
+    "options": [
+      "many",
+      "much",
+      "few",
+      "number"
+    ],
+    "correct": 1,
+    "explain": "'Much' for uncountable nouns (water)."
+  },
+  {
+    "id": "q34",
+    "category": "Word Usage",
+    "q": "I have lived here ___ five years.",
+    "options": [
+      "since",
+      "for",
+      "from",
+      "at"
+    ],
+    "correct": 1,
+    "explain": "'For' + a period of time."
+  },
+  {
+    "id": "q35",
+    "category": "Word Usage",
+    "q": "I have known him ___ 2018.",
+    "options": [
+      "for",
+      "since",
+      "from",
+      "by"
+    ],
+    "correct": 1,
+    "explain": "'Since' + a starting point in time."
+  },
+  {
+    "id": "q36",
+    "category": "Word Usage",
+    "q": "Can I ___ your pen?",
+    "options": [
+      "lend",
+      "borrow",
+      "give",
+      "take"
+    ],
+    "correct": 1,
+    "explain": "You 'borrow' something from someone (you take it)."
+  },
+  {
+    "id": "q37",
+    "category": "Word Usage",
+    "q": "She sings very ___.",
+    "options": [
+      "good",
+      "well",
+      "best",
+      "nice"
+    ],
+    "correct": 1,
+    "explain": "'Well' is an adverb describing how she sings."
+  },
+  {
+    "id": "q38",
+    "category": "Word Usage",
+    "q": "Please ___ your hand if you know the answer.",
+    "options": [
+      "rise",
+      "raise",
+      "rose",
+      "risen"
+    ],
+    "correct": 1,
+    "explain": "'Raise' takes an object (raise your hand)."
+  },
+  {
+    "id": "q39",
+    "category": "Word Usage",
+    "q": "Share the sweets ___ the three children.",
+    "options": [
+      "between",
+      "among",
+      "with",
+      "in"
+    ],
+    "correct": 1,
+    "explain": "'Among' for three or more."
+  },
+  {
+    "id": "q40",
+    "category": "Vocabulary",
+    "q": "'Meticulous' means...",
+    "options": [
+      "careless",
+      "very careful and detailed",
+      "fast",
+      "funny"
+    ],
+    "correct": 1,
+    "explain": "Meticulous = paying great attention to detail."
+  },
+  {
+    "id": "q41",
+    "category": "Vocabulary",
+    "q": "'Reluctant' means...",
+    "options": [
+      "eager",
+      "unwilling / hesitant",
+      "tired",
+      "angry"
+    ],
+    "correct": 1,
+    "explain": "Reluctant = not willing to do something."
+  },
+  {
+    "id": "q42",
+    "category": "Vocabulary",
+    "q": "'Concise' means...",
+    "options": [
+      "long and detailed",
+      "short and clear",
+      "confusing",
+      "loud"
+    ],
+    "correct": 1,
+    "explain": "Concise = short and clear, using few words."
+  },
+  {
+    "id": "q43",
+    "category": "Vocabulary",
+    "q": "'Diligent' means...",
+    "options": [
+      "lazy",
+      "hard-working and careful",
+      "rich",
+      "late"
+    ],
+    "correct": 1,
+    "explain": "Diligent = working hard and carefully."
+  },
+  {
+    "id": "q44",
+    "category": "Vocabulary",
+    "q": "'Genuine' means...",
+    "options": [
+      "fake",
+      "real and sincere",
+      "expensive",
+      "new"
+    ],
+    "correct": 1,
+    "explain": "Genuine = real and sincere."
+  },
+  {
+    "id": "q45",
+    "category": "Vocabulary",
+    "q": "'Inevitable' means...",
+    "options": [
+      "avoidable",
+      "certain to happen",
+      "unlikely",
+      "optional"
+    ],
+    "correct": 1,
+    "explain": "Inevitable = certain to happen; unavoidable."
+  },
+  {
+    "id": "q46",
+    "category": "Vocabulary",
+    "q": "'Empathy' means...",
+    "options": [
+      "anger",
+      "understanding others' feelings",
+      "laziness",
+      "wealth"
+    ],
+    "correct": 1,
+    "explain": "Empathy = the ability to understand how others feel."
+  },
+  {
+    "id": "q47",
+    "category": "Vocabulary",
+    "q": "'Ambiguous' means...",
+    "options": [
+      "very clear",
+      "having more than one meaning",
+      "colorful",
+      "cheap"
+    ],
+    "correct": 1,
+    "explain": "Ambiguous = unclear; more than one possible meaning."
+  },
+  {
+    "id": "q48",
+    "category": "Vocabulary",
+    "q": "'Optimistic' means...",
+    "options": [
+      "hopeful and positive",
+      "sad",
+      "confused",
+      "strict"
+    ],
+    "correct": 0,
+    "explain": "Optimistic = hopeful about the future."
+  },
+  {
+    "id": "q49",
+    "category": "Vocabulary",
+    "q": "'Humble' means...",
+    "options": [
+      "proud",
+      "modest, not proud",
+      "rude",
+      "rich"
+    ],
+    "correct": 1,
+    "explain": "Humble = modest; not proud."
+  }
+]

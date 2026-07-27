@@ -1,0 +1,482 @@
+[
+  {
+    "id": "s1",
+    "category": "Greetings",
+    "text": "Hi, how are you doing?",
+    "note": "A friendly, common way to greet someone."
+  },
+  {
+    "id": "s2",
+    "category": "Greetings",
+    "text": "It's nice to meet you.",
+    "note": "Say this when meeting someone for the first time."
+  },
+  {
+    "id": "s3",
+    "category": "Greetings",
+    "text": "Long time no see!",
+    "note": "Use this when you meet an old friend after a while."
+  },
+  {
+    "id": "s4",
+    "category": "Greetings",
+    "text": "How's it going?",
+    "note": "A casual way to ask how someone is."
+  },
+  {
+    "id": "s5",
+    "category": "Greetings",
+    "text": "Have a great day!",
+    "note": "A warm way to end a conversation."
+  },
+  {
+    "id": "s6",
+    "category": "Greetings",
+    "text": "Good to see you again.",
+    "note": "Friendly greeting for someone you know."
+  },
+  {
+    "id": "s7",
+    "category": "Small Talk",
+    "text": "So, what do you do?",
+    "note": "A polite way to ask about someone's job."
+  },
+  {
+    "id": "s8",
+    "category": "Small Talk",
+    "text": "The weather is lovely today, isn't it?",
+    "note": "A classic way to start small talk."
+  },
+  {
+    "id": "s9",
+    "category": "Small Talk",
+    "text": "How was your weekend?",
+    "note": "Ask this on a Monday to start a friendly chat."
+  },
+  {
+    "id": "s10",
+    "category": "Small Talk",
+    "text": "That sounds interesting. Tell me more.",
+    "note": "Shows you are listening and want to know more."
+  },
+  {
+    "id": "s11",
+    "category": "Small Talk",
+    "text": "I couldn't agree more.",
+    "note": "A strong way to say you completely agree."
+  },
+  {
+    "id": "s12",
+    "category": "Small Talk",
+    "text": "Anyway, I should get going.",
+    "note": "A polite way to end a conversation."
+  },
+  {
+    "id": "s13",
+    "category": "At Work",
+    "text": "Could you please clarify that?",
+    "note": "Ask this politely when something is not clear."
+  },
+  {
+    "id": "s14",
+    "category": "At Work",
+    "text": "I'll get back to you on that.",
+    "note": "Say this when you need time before answering."
+  },
+  {
+    "id": "s15",
+    "category": "At Work",
+    "text": "Let's touch base tomorrow.",
+    "note": "Means 'let's talk again tomorrow'."
+  },
+  {
+    "id": "s16",
+    "category": "At Work",
+    "text": "I'm on it.",
+    "note": "A confident way to say you'll do the task now."
+  },
+  {
+    "id": "s17",
+    "category": "At Work",
+    "text": "Can we schedule a meeting?",
+    "note": "A polite request to set up a meeting."
+  },
+  {
+    "id": "s18",
+    "category": "At Work",
+    "text": "That works for me.",
+    "note": "Say this to agree to a time or plan."
+  },
+  {
+    "id": "s19",
+    "category": "At Work",
+    "text": "I appreciate your help with this.",
+    "note": "A polite way to thank a colleague."
+  },
+  {
+    "id": "s20",
+    "category": "At Work",
+    "text": "Let me walk you through it.",
+    "note": "Means 'let me explain it step by step'."
+  },
+  {
+    "id": "s21",
+    "category": "Restaurant",
+    "text": "Could I see the menu, please?",
+    "note": "Politely ask for the menu."
+  },
+  {
+    "id": "s22",
+    "category": "Restaurant",
+    "text": "I'd like to order, please.",
+    "note": "Tell the waiter you are ready to order."
+  },
+  {
+    "id": "s23",
+    "category": "Restaurant",
+    "text": "What would you recommend?",
+    "note": "Ask the waiter for a suggestion."
+  },
+  {
+    "id": "s24",
+    "category": "Restaurant",
+    "text": "Could we get the bill, please?",
+    "note": "Ask for the bill at the end."
+  },
+  {
+    "id": "s25",
+    "category": "Restaurant",
+    "text": "This is delicious!",
+    "note": "Compliment the food."
+  },
+  {
+    "id": "s26",
+    "category": "Restaurant",
+    "text": "Can I have some water, please?",
+    "note": "A simple polite request."
+  },
+  {
+    "id": "s27",
+    "category": "Shopping",
+    "text": "How much is this?",
+    "note": "Ask the price of an item."
+  },
+  {
+    "id": "s28",
+    "category": "Shopping",
+    "text": "Do you have this in a larger size?",
+    "note": "Ask for a different size."
+  },
+  {
+    "id": "s29",
+    "category": "Shopping",
+    "text": "I'm just looking, thanks.",
+    "note": "Say this when you don't need help yet."
+  },
+  {
+    "id": "s30",
+    "category": "Shopping",
+    "text": "Can I pay by card?",
+    "note": "Ask about the payment method."
+  },
+  {
+    "id": "s31",
+    "category": "Shopping",
+    "text": "Is this on sale?",
+    "note": "Ask if there is a discount."
+  },
+  {
+    "id": "s32",
+    "category": "Shopping",
+    "text": "I'll take it.",
+    "note": "Say this when you decide to buy."
+  },
+  {
+    "id": "s33",
+    "category": "Travel",
+    "text": "Excuse me, where is the station?",
+    "note": "Politely ask for directions."
+  },
+  {
+    "id": "s34",
+    "category": "Travel",
+    "text": "How do I get to the airport?",
+    "note": "Ask for directions to a place."
+  },
+  {
+    "id": "s35",
+    "category": "Travel",
+    "text": "Is this seat taken?",
+    "note": "Ask before sitting next to someone."
+  },
+  {
+    "id": "s36",
+    "category": "Travel",
+    "text": "Could you help me, please?",
+    "note": "A polite request for help."
+  },
+  {
+    "id": "s37",
+    "category": "Travel",
+    "text": "What time does the train leave?",
+    "note": "Ask about a departure time."
+  },
+  {
+    "id": "s38",
+    "category": "Travel",
+    "text": "I think I'm lost.",
+    "note": "Say this when you need directions."
+  },
+  {
+    "id": "s39",
+    "category": "Phone Calls",
+    "text": "Hello, this is Priya speaking.",
+    "note": "Introduce yourself on a call."
+  },
+  {
+    "id": "s40",
+    "category": "Phone Calls",
+    "text": "Could you hold on for a moment?",
+    "note": "Politely ask the caller to wait."
+  },
+  {
+    "id": "s41",
+    "category": "Phone Calls",
+    "text": "Can you hear me okay?",
+    "note": "Check if the connection is clear."
+  },
+  {
+    "id": "s42",
+    "category": "Phone Calls",
+    "text": "I'll call you back later.",
+    "note": "Say you will return the call."
+  },
+  {
+    "id": "s43",
+    "category": "Phone Calls",
+    "text": "Sorry, you have the wrong number.",
+    "note": "Say this to a caller who dialed wrong."
+  },
+  {
+    "id": "s44",
+    "category": "Phone Calls",
+    "text": "Let me put you through.",
+    "note": "Means 'I'll connect you to someone'."
+  },
+  {
+    "id": "s45",
+    "category": "Feelings",
+    "text": "I'm really excited about this.",
+    "note": "Express excitement."
+  },
+  {
+    "id": "s46",
+    "category": "Feelings",
+    "text": "I'm a bit tired today.",
+    "note": "Politely say you are tired."
+  },
+  {
+    "id": "s47",
+    "category": "Feelings",
+    "text": "That means a lot to me.",
+    "note": "Say this when you are touched by something."
+  },
+  {
+    "id": "s48",
+    "category": "Feelings",
+    "text": "I'm not feeling well.",
+    "note": "Say this when you are unwell."
+  },
+  {
+    "id": "s49",
+    "category": "Feelings",
+    "text": "I'm so proud of you.",
+    "note": "Encourage and praise someone."
+  },
+  {
+    "id": "s50",
+    "category": "Feelings",
+    "text": "Don't worry, everything will be fine.",
+    "note": "Comfort someone who is stressed."
+  },
+  {
+    "id": "s51",
+    "category": "Agreeing / Disagreeing",
+    "text": "You have a point there.",
+    "note": "Politely agree with part of what someone said."
+  },
+  {
+    "id": "s52",
+    "category": "Agreeing / Disagreeing",
+    "text": "I see what you mean.",
+    "note": "Show you understand their view."
+  },
+  {
+    "id": "s53",
+    "category": "Agreeing / Disagreeing",
+    "text": "I'm afraid I disagree.",
+    "note": "Politely disagree."
+  },
+  {
+    "id": "s54",
+    "category": "Agreeing / Disagreeing",
+    "text": "That's a good idea.",
+    "note": "Support someone's suggestion."
+  },
+  {
+    "id": "s55",
+    "category": "Agreeing / Disagreeing",
+    "text": "Let's agree to disagree.",
+    "note": "End a disagreement politely."
+  },
+  {
+    "id": "s56",
+    "category": "Agreeing / Disagreeing",
+    "text": "Fair enough.",
+    "note": "Accept someone's point casually."
+  },
+  {
+    "id": "s57",
+    "category": "Requests / Help",
+    "text": "Would you mind helping me?",
+    "note": "A very polite way to ask for help."
+  },
+  {
+    "id": "s58",
+    "category": "Requests / Help",
+    "text": "Could you do me a favor?",
+    "note": "Ask for a small favor."
+  },
+  {
+    "id": "s59",
+    "category": "Requests / Help",
+    "text": "Is it okay if I join you?",
+    "note": "Politely ask to join."
+  },
+  {
+    "id": "s60",
+    "category": "Requests / Help",
+    "text": "Can you give me a hand?",
+    "note": "Casual way to ask for help."
+  },
+  {
+    "id": "s61",
+    "category": "Requests / Help",
+    "text": "Take your time, no rush.",
+    "note": "Tell someone not to hurry."
+  },
+  {
+    "id": "s62",
+    "category": "Requests / Help",
+    "text": "No problem at all.",
+    "note": "A friendly way to say 'you're welcome'."
+  },
+  {
+    "id": "s63",
+    "category": "At the Office",
+    "text": "Let me get back to you on that.",
+    "note": "Say when you need time before answering."
+  },
+  {
+    "id": "s64",
+    "category": "At the Office",
+    "text": "Can you send me the details?",
+    "note": "Ask a colleague for information."
+  },
+  {
+    "id": "s65",
+    "category": "At the Office",
+    "text": "I'm running a little late.",
+    "note": "Politely say you will be late."
+  },
+  {
+    "id": "s66",
+    "category": "At the Office",
+    "text": "Great job on the presentation!",
+    "note": "Praise a colleague."
+  },
+  {
+    "id": "s67",
+    "category": "Making Requests",
+    "text": "Would it be possible to reschedule?",
+    "note": "Politely ask to change a time."
+  },
+  {
+    "id": "s68",
+    "category": "Making Requests",
+    "text": "Do you mind if I open the window?",
+    "note": "Politely ask permission."
+  },
+  {
+    "id": "s69",
+    "category": "Making Requests",
+    "text": "Could you speak a little slower, please?",
+    "note": "Ask someone to slow down."
+  },
+  {
+    "id": "s70",
+    "category": "Apologizing",
+    "text": "I'm really sorry for the delay.",
+    "note": "Apologize for being late."
+  },
+  {
+    "id": "s71",
+    "category": "Apologizing",
+    "text": "That was my mistake, I apologize.",
+    "note": "Take responsibility politely."
+  },
+  {
+    "id": "s72",
+    "category": "Apologizing",
+    "text": "No worries, it happens.",
+    "note": "Kindly accept an apology."
+  },
+  {
+    "id": "s73",
+    "category": "Giving Opinions",
+    "text": "In my opinion, we should wait.",
+    "note": "Share your view politely."
+  },
+  {
+    "id": "s74",
+    "category": "Giving Opinions",
+    "text": "I think that's a great idea.",
+    "note": "Support someone's idea."
+  },
+  {
+    "id": "s75",
+    "category": "Giving Opinions",
+    "text": "I'm not so sure about that.",
+    "note": "Politely show doubt."
+  },
+  {
+    "id": "s76",
+    "category": "Encouraging",
+    "text": "You can do it!",
+    "note": "Encourage someone."
+  },
+  {
+    "id": "s77",
+    "category": "Encouraging",
+    "text": "Don't give up, you're almost there.",
+    "note": "Motivate someone."
+  },
+  {
+    "id": "s78",
+    "category": "Encouraging",
+    "text": "I believe in you.",
+    "note": "Show support."
+  },
+  {
+    "id": "s79",
+    "category": "Thanking",
+    "text": "Thank you so much for your help.",
+    "note": "Thank someone warmly."
+  },
+  {
+    "id": "s80",
+    "category": "Thanking",
+    "text": "I really appreciate it.",
+    "note": "Show gratitude."
+  }
+]

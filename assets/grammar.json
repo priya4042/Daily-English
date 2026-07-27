@@ -1,0 +1,752 @@
+[
+  {
+    "id": "g1",
+    "title": "Present Simple Tense",
+    "subtitle": "For habits, routines and facts",
+    "level": "Beginner",
+    "tip": "Use the base verb. Add -s/-es for he, she, it.",
+    "items": [
+      {
+        "point": "Use it for things you do regularly or facts that are always true.",
+        "example": "I go to work every day."
+      },
+      {
+        "point": "For he, she, it - add -s or -es to the verb.",
+        "example": "She works in a bank."
+      },
+      {
+        "point": "Make questions with do / does.",
+        "example": "Do you like tea?"
+      },
+      {
+        "point": "Make negatives with do not / does not.",
+        "example": "He does not eat meat."
+      }
+    ]
+  },
+  {
+    "id": "g2",
+    "title": "Present Continuous",
+    "subtitle": "For actions happening right now",
+    "level": "Beginner",
+    "tip": "am / is / are + verb-ing.",
+    "items": [
+      {
+        "point": "Use it for something happening at this moment.",
+        "example": "I am reading a book now."
+      },
+      {
+        "point": "Use am with I, is with he/she/it, are with you/we/they.",
+        "example": "They are playing outside."
+      },
+      {
+        "point": "Also for temporary situations these days.",
+        "example": "She is studying for her exam this week."
+      },
+      {
+        "point": "Question: put am/is/are first.",
+        "example": "Are you listening to me?"
+      }
+    ]
+  },
+  {
+    "id": "g3",
+    "title": "Past Simple Tense",
+    "subtitle": "For finished actions in the past",
+    "level": "Beginner",
+    "tip": "Add -ed to regular verbs; learn irregular ones.",
+    "items": [
+      {
+        "point": "Use it for actions that finished in the past.",
+        "example": "I visited my friend yesterday."
+      },
+      {
+        "point": "Regular verbs add -ed.",
+        "example": "She cooked dinner last night."
+      },
+      {
+        "point": "Many common verbs are irregular - learn them.",
+        "example": "I went to school. (go -> went)"
+      },
+      {
+        "point": "Questions and negatives use did.",
+        "example": "Did you call him? / I did not see it."
+      }
+    ]
+  },
+  {
+    "id": "g4",
+    "title": "Future: will and going to",
+    "subtitle": "For actions in the future",
+    "level": "Beginner",
+    "tip": "will = decide now; going to = already planned.",
+    "items": [
+      {
+        "point": "Use will for a decision made right now or a promise.",
+        "example": "I will help you with that."
+      },
+      {
+        "point": "Use going to for plans you already decided.",
+        "example": "We are going to travel next month."
+      },
+      {
+        "point": "Will is also used for predictions.",
+        "example": "It will rain tomorrow."
+      },
+      {
+        "point": "Question: Will you...? / Are you going to...?",
+        "example": "Will you join us?"
+      }
+    ]
+  },
+  {
+    "id": "g5",
+    "title": "Articles: a, an, the",
+    "subtitle": "Small words before nouns",
+    "level": "Beginner",
+    "tip": "a/an = one, any; the = a specific one.",
+    "items": [
+      {
+        "point": "Use a before a consonant sound.",
+        "example": "I saw a dog."
+      },
+      {
+        "point": "Use an before a vowel sound (a, e, i, o, u).",
+        "example": "She ate an apple."
+      },
+      {
+        "point": "Use the when both people know which one.",
+        "example": "Please close the door."
+      },
+      {
+        "point": "Use no article for general plural or uncountable nouns.",
+        "example": "I like music. / Dogs are friendly."
+      }
+    ]
+  },
+  {
+    "id": "g6",
+    "title": "Sentence Order: Subject-Verb-Object",
+    "subtitle": "How to build a basic sentence",
+    "level": "Beginner",
+    "tip": "English usually follows Subject + Verb + Object.",
+    "items": [
+      {
+        "point": "The subject does the action, then the verb, then the object.",
+        "example": "I (subject) eat (verb) rice (object)."
+      },
+      {
+        "point": "Keep this order in most sentences.",
+        "example": "She reads books."
+      },
+      {
+        "point": "Add time/place usually at the end.",
+        "example": "We play cricket in the park."
+      },
+      {
+        "point": "Do not drop the subject.",
+        "example": "It is raining. (not just 'Is raining')"
+      }
+    ]
+  },
+  {
+    "id": "g7",
+    "title": "Question Words",
+    "subtitle": "How to ask for information",
+    "level": "Beginner",
+    "tip": "What, Where, When, Who, Why, Which, Whose, How.",
+    "items": [
+      {
+        "point": "What asks about a thing.",
+        "example": "What is your name?"
+      },
+      {
+        "point": "Where asks about a place.",
+        "example": "Where do you live?"
+      },
+      {
+        "point": "When asks about time.",
+        "example": "When does the class start?"
+      },
+      {
+        "point": "Why asks for a reason; How asks about manner.",
+        "example": "Why are you late? / How are you?"
+      }
+    ]
+  },
+  {
+    "id": "g8",
+    "title": "Plural Nouns",
+    "subtitle": "Talking about more than one",
+    "level": "Beginner",
+    "tip": "Usually add -s; sometimes -es or a special form.",
+    "items": [
+      {
+        "point": "Add -s to most nouns.",
+        "example": "one book -> two books"
+      },
+      {
+        "point": "Add -es after s, x, ch, sh.",
+        "example": "box -> boxes, watch -> watches"
+      },
+      {
+        "point": "Some nouns change completely (irregular).",
+        "example": "man -> men, child -> children"
+      },
+      {
+        "point": "Some nouns stay the same.",
+        "example": "one sheep -> two sheep"
+      }
+    ]
+  },
+  {
+    "id": "g9",
+    "title": "Present Perfect",
+    "subtitle": "Past action connected to now",
+    "level": "Intermediate",
+    "tip": "have / has + past participle (third form).",
+    "items": [
+      {
+        "point": "Use it for a past action with a result now, no exact time.",
+        "example": "I have finished my work."
+      },
+      {
+        "point": "Use has with he, she, it.",
+        "example": "She has gone home."
+      },
+      {
+        "point": "Use it for experiences in your life.",
+        "example": "I have visited Delhi."
+      },
+      {
+        "point": "Use 'for' and 'since' for duration.",
+        "example": "I have lived here for five years."
+      }
+    ]
+  },
+  {
+    "id": "g10",
+    "title": "Past Continuous",
+    "subtitle": "An action in progress in the past",
+    "level": "Intermediate",
+    "tip": "was / were + verb-ing.",
+    "items": [
+      {
+        "point": "Use it for an action happening at a moment in the past.",
+        "example": "I was watching TV at 8 pm."
+      },
+      {
+        "point": "Often used with past simple for interruption.",
+        "example": "I was sleeping when the phone rang."
+      },
+      {
+        "point": "Use was with I/he/she/it, were with you/we/they.",
+        "example": "They were playing football."
+      },
+      {
+        "point": "Sets the background of a story.",
+        "example": "The sun was shining and birds were singing."
+      }
+    ]
+  },
+  {
+    "id": "g11",
+    "title": "Comparatives and Superlatives",
+    "subtitle": "Comparing things",
+    "level": "Intermediate",
+    "tip": "-er / more for two; -est / most for the top.",
+    "items": [
+      {
+        "point": "Short words add -er to compare two things.",
+        "example": "This box is bigger than that one."
+      },
+      {
+        "point": "Long words use 'more'.",
+        "example": "This book is more interesting than that one."
+      },
+      {
+        "point": "For the highest, add -est or use 'most'.",
+        "example": "He is the tallest boy in the class."
+      },
+      {
+        "point": "Some are irregular.",
+        "example": "good -> better -> best, bad -> worse -> worst"
+      }
+    ]
+  },
+  {
+    "id": "g12",
+    "title": "Modals: can, could",
+    "subtitle": "Ability and polite requests",
+    "level": "Intermediate",
+    "tip": "can = present ability; could = past or polite.",
+    "items": [
+      {
+        "point": "Use can for present ability.",
+        "example": "I can swim."
+      },
+      {
+        "point": "Use could for past ability.",
+        "example": "When I was young, I could run fast."
+      },
+      {
+        "point": "Use could for polite requests.",
+        "example": "Could you help me, please?"
+      },
+      {
+        "point": "Negative: cannot / could not.",
+        "example": "I cannot come today."
+      }
+    ]
+  },
+  {
+    "id": "g13",
+    "title": "Modals: should, must, have to",
+    "subtitle": "Advice and obligation",
+    "level": "Intermediate",
+    "tip": "should = advice; must / have to = necessary.",
+    "items": [
+      {
+        "point": "Use should to give advice.",
+        "example": "You should drink more water."
+      },
+      {
+        "point": "Use must for strong necessity or rules.",
+        "example": "You must wear a helmet."
+      },
+      {
+        "point": "Have to shows necessity from outside.",
+        "example": "I have to finish this today."
+      },
+      {
+        "point": "Should not / must not for what is wrong.",
+        "example": "You must not smoke here."
+      }
+    ]
+  },
+  {
+    "id": "g14",
+    "title": "Prepositions of Time: in, on, at",
+    "subtitle": "When something happens",
+    "level": "Intermediate",
+    "tip": "at = time, on = day/date, in = month/year.",
+    "items": [
+      {
+        "point": "Use at for exact times.",
+        "example": "The meeting is at 5 o'clock."
+      },
+      {
+        "point": "Use on for days and dates.",
+        "example": "I will see you on Monday."
+      },
+      {
+        "point": "Use in for months, years, and long periods.",
+        "example": "She was born in 1995."
+      },
+      {
+        "point": "Use in for parts of the day (except night).",
+        "example": "I study in the morning. / at night."
+      }
+    ]
+  },
+  {
+    "id": "g15",
+    "title": "Countable and Uncountable Nouns",
+    "subtitle": "many, much, some, any",
+    "level": "Intermediate",
+    "tip": "many for countable; much for uncountable.",
+    "items": [
+      {
+        "point": "Countable nouns can be counted; use many.",
+        "example": "How many books do you have?"
+      },
+      {
+        "point": "Uncountable nouns cannot be counted; use much.",
+        "example": "How much water do you want?"
+      },
+      {
+        "point": "Use some in positive sentences.",
+        "example": "I have some money."
+      },
+      {
+        "point": "Use any in questions and negatives.",
+        "example": "Do you have any sugar? / I don't have any."
+      }
+    ]
+  },
+  {
+    "id": "g16",
+    "title": "Adverbs of Frequency",
+    "subtitle": "How often you do things",
+    "level": "Intermediate",
+    "tip": "always, usually, often, sometimes, never.",
+    "items": [
+      {
+        "point": "They tell how often something happens.",
+        "example": "I always brush my teeth."
+      },
+      {
+        "point": "Put them before the main verb.",
+        "example": "She usually walks to work."
+      },
+      {
+        "point": "But after the verb 'be'.",
+        "example": "He is often late."
+      },
+      {
+        "point": "Never already means 'not', so don't add 'not'.",
+        "example": "I never eat junk food."
+      }
+    ]
+  },
+  {
+    "id": "g17",
+    "title": "Present Perfect Continuous",
+    "subtitle": "How long an action has continued",
+    "level": "Advanced",
+    "tip": "have / has been + verb-ing.",
+    "items": [
+      {
+        "point": "Use it for an action that started in the past and is still going.",
+        "example": "I have been working here for two years."
+      },
+      {
+        "point": "It focuses on the length of the activity.",
+        "example": "She has been studying since morning."
+      },
+      {
+        "point": "Often answers 'how long?'.",
+        "example": "How long have you been waiting?"
+      },
+      {
+        "point": "Compare with present perfect (result vs duration).",
+        "example": "I have read the book. / I have been reading all day."
+      }
+    ]
+  },
+  {
+    "id": "g18",
+    "title": "Past Perfect",
+    "subtitle": "The earlier of two past actions",
+    "level": "Advanced",
+    "tip": "had + past participle.",
+    "items": [
+      {
+        "point": "Use it for an action that happened before another past action.",
+        "example": "The train had left before I reached the station."
+      },
+      {
+        "point": "It makes the order of past events clear.",
+        "example": "She had finished dinner when I arrived."
+      },
+      {
+        "point": "Often used with 'before', 'after', 'by the time'.",
+        "example": "By the time we came, the show had started."
+      },
+      {
+        "point": "Negative: had not.",
+        "example": "I had not seen that film before."
+      }
+    ]
+  },
+  {
+    "id": "g19",
+    "title": "Conditionals (If sentences)",
+    "subtitle": "Talking about possibilities",
+    "level": "Advanced",
+    "tip": "Zero, First, Second, Third - different uses.",
+    "items": [
+      {
+        "point": "Zero: general truths. If + present, present.",
+        "example": "If you heat ice, it melts."
+      },
+      {
+        "point": "First: real future. If + present, will.",
+        "example": "If it rains, I will stay home."
+      },
+      {
+        "point": "Second: unreal now. If + past, would.",
+        "example": "If I had money, I would travel."
+      },
+      {
+        "point": "Third: unreal past. If + had + past participle, would have.",
+        "example": "If I had studied, I would have passed."
+      }
+    ]
+  },
+  {
+    "id": "g20",
+    "title": "Passive Voice",
+    "subtitle": "When the action matters, not the doer",
+    "level": "Advanced",
+    "tip": "be + past participle.",
+    "items": [
+      {
+        "point": "Use it when the doer is unknown or unimportant.",
+        "example": "The window was broken."
+      },
+      {
+        "point": "Form: subject + be + past participle.",
+        "example": "English is spoken here."
+      },
+      {
+        "point": "Add 'by' to mention the doer.",
+        "example": "The cake was made by my mother."
+      },
+      {
+        "point": "Common in news and formal writing.",
+        "example": "A new bridge is being built."
+      }
+    ]
+  },
+  {
+    "id": "g21",
+    "title": "Reported Speech",
+    "subtitle": "Telling what someone said",
+    "level": "Advanced",
+    "tip": "Move the tense one step back.",
+    "items": [
+      {
+        "point": "Change the tense back when reporting.",
+        "example": "He said, 'I am tired.' -> He said he was tired."
+      },
+      {
+        "point": "Present becomes past.",
+        "example": "'I work here.' -> She said she worked there."
+      },
+      {
+        "point": "Change time and place words too.",
+        "example": "'today' -> that day, 'here' -> there."
+      },
+      {
+        "point": "Questions use if/whether or a question word.",
+        "example": "He asked if I was coming."
+      }
+    ]
+  },
+  {
+    "id": "g22",
+    "title": "Relative Clauses",
+    "subtitle": "Adding info with who, which, that",
+    "level": "Advanced",
+    "tip": "who = people, which = things, that = both.",
+    "items": [
+      {
+        "point": "Use who for people.",
+        "example": "The man who called you is my uncle."
+      },
+      {
+        "point": "Use which for things.",
+        "example": "The phone which I bought is new."
+      },
+      {
+        "point": "Use that for people or things (informal).",
+        "example": "The book that you gave me is great."
+      },
+      {
+        "point": "Use where for places, whose for possession.",
+        "example": "This is the house where I grew up."
+      }
+    ]
+  },
+  {
+    "id": "g23",
+    "title": "Gerunds and Infinitives",
+    "subtitle": "-ing vs to + verb",
+    "level": "Advanced",
+    "tip": "Some verbs take -ing, some take 'to'.",
+    "items": [
+      {
+        "point": "A gerund is verb + ing used as a noun.",
+        "example": "I enjoy reading."
+      },
+      {
+        "point": "After some verbs use the gerund (enjoy, avoid, finish).",
+        "example": "She finished eating."
+      },
+      {
+        "point": "After some verbs use the infinitive (want, decide, hope).",
+        "example": "I want to learn English."
+      },
+      {
+        "point": "After prepositions, use the gerund.",
+        "example": "He is good at singing."
+      }
+    ]
+  },
+  {
+    "id": "g24",
+    "title": "Future Continuous and Perfect",
+    "subtitle": "Advanced future forms",
+    "level": "Advanced",
+    "tip": "will be + -ing / will have + past participle.",
+    "items": [
+      {
+        "point": "Future continuous: an action in progress in the future.",
+        "example": "This time tomorrow, I will be flying to Delhi."
+      },
+      {
+        "point": "Future perfect: an action finished before a future time.",
+        "example": "By next year, I will have completed my course."
+      },
+      {
+        "point": "Use them to sound fluent and precise.",
+        "example": "She will be waiting for you."
+      },
+      {
+        "point": "Question form keeps 'will' first.",
+        "example": "Will you be joining us tonight?"
+      }
+    ]
+  },
+  {
+    "id": "g25",
+    "title": "Pronouns",
+    "subtitle": "Words that replace nouns",
+    "level": "Beginner",
+    "tip": "I, you, he, she, it, we, they.",
+    "items": [
+      {
+        "point": "Use a pronoun instead of repeating a name.",
+        "example": "Ravi is my friend. He is kind."
+      },
+      {
+        "point": "Subject pronouns do the action.",
+        "example": "We are learning English."
+      },
+      {
+        "point": "Object pronouns receive the action.",
+        "example": "She called me."
+      },
+      {
+        "point": "Possessive pronouns show belonging.",
+        "example": "This book is mine."
+      }
+    ]
+  },
+  {
+    "id": "g26",
+    "title": "There is / There are",
+    "subtitle": "Saying something exists",
+    "level": "Beginner",
+    "tip": "there is + singular; there are + plural.",
+    "items": [
+      {
+        "point": "Use 'there is' for one thing.",
+        "example": "There is a book on the table."
+      },
+      {
+        "point": "Use 'there are' for many things.",
+        "example": "There are five students here."
+      },
+      {
+        "point": "Question: Is there...? / Are there...?",
+        "example": "Is there any milk?"
+      },
+      {
+        "point": "Negative: there isn't / there aren't.",
+        "example": "There aren't any chairs."
+      }
+    ]
+  },
+  {
+    "id": "g27",
+    "title": "Conjunctions",
+    "subtitle": "Joining words: and, but, because",
+    "level": "Beginner",
+    "tip": "Connect ideas smoothly.",
+    "items": [
+      {
+        "point": "Use 'and' to add.",
+        "example": "I like tea and coffee."
+      },
+      {
+        "point": "Use 'but' to show contrast.",
+        "example": "It's small but comfortable."
+      },
+      {
+        "point": "Use 'because' to give a reason.",
+        "example": "I'm happy because I passed."
+      },
+      {
+        "point": "Use 'so' to show a result.",
+        "example": "It rained, so we stayed home."
+      }
+    ]
+  },
+  {
+    "id": "g28",
+    "title": "Question Tags",
+    "subtitle": "Adding a mini-question at the end",
+    "level": "Intermediate",
+    "tip": "positive sentence -> negative tag.",
+    "items": [
+      {
+        "point": "Add a short question to confirm.",
+        "example": "You're coming, aren't you?"
+      },
+      {
+        "point": "Positive sentence takes a negative tag.",
+        "example": "She is a doctor, isn't she?"
+      },
+      {
+        "point": "Negative sentence takes a positive tag.",
+        "example": "He isn't here, is he?"
+      },
+      {
+        "point": "Match the helping verb.",
+        "example": "They can swim, can't they?"
+      }
+    ]
+  },
+  {
+    "id": "g29",
+    "title": "Used to",
+    "subtitle": "Talking about past habits",
+    "level": "Intermediate",
+    "tip": "used to + base verb.",
+    "items": [
+      {
+        "point": "Use 'used to' for something you did regularly in the past.",
+        "example": "I used to play cricket every day."
+      },
+      {
+        "point": "It shows the habit has stopped now.",
+        "example": "She used to smoke, but she quit."
+      },
+      {
+        "point": "Question: Did you use to...?",
+        "example": "Did you use to live here?"
+      },
+      {
+        "point": "Do not confuse with 'be used to' (be familiar with).",
+        "example": "I am used to the noise now."
+      }
+    ]
+  },
+  {
+    "id": "g30",
+    "title": "So and Such",
+    "subtitle": "Making words stronger",
+    "level": "Advanced",
+    "tip": "so + adjective; such + (a) noun.",
+    "items": [
+      {
+        "point": "Use 'so' before an adjective or adverb.",
+        "example": "The film was so boring."
+      },
+      {
+        "point": "Use 'such' before a noun phrase.",
+        "example": "It was such a good film."
+      },
+      {
+        "point": "With a singular noun, add 'a/an'.",
+        "example": "She is such an intelligent girl."
+      },
+      {
+        "point": "They add emphasis to your feelings.",
+        "example": "I'm so tired today."
+      }
+    ]
+  }
+]

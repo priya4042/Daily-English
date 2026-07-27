@@ -1,0 +1,366 @@
+[
+  {
+    "id": "p1",
+    "phrase": "Break the ice",
+    "meaning": "To start a conversation and make people feel comfortable.",
+    "example": "He told a joke to break the ice at the meeting.",
+    "type": "idiom"
+  },
+  {
+    "id": "p2",
+    "phrase": "Piece of cake",
+    "meaning": "Something very easy to do.",
+    "example": "The test was a piece of cake.",
+    "type": "idiom"
+  },
+  {
+    "id": "p3",
+    "phrase": "Hit the books",
+    "meaning": "To start studying hard.",
+    "example": "I need to hit the books before the exam.",
+    "type": "idiom"
+  },
+  {
+    "id": "p4",
+    "phrase": "Under the weather",
+    "meaning": "Feeling a little sick.",
+    "example": "I'm feeling under the weather today.",
+    "type": "idiom"
+  },
+  {
+    "id": "p5",
+    "phrase": "Once in a blue moon",
+    "meaning": "Very rarely.",
+    "example": "We eat out once in a blue moon.",
+    "type": "idiom"
+  },
+  {
+    "id": "p6",
+    "phrase": "On the same page",
+    "meaning": "In agreement; understanding each other.",
+    "example": "Let's make sure we're on the same page.",
+    "type": "idiom"
+  },
+  {
+    "id": "p7",
+    "phrase": "Cost an arm and a leg",
+    "meaning": "To be very expensive.",
+    "example": "That phone costs an arm and a leg.",
+    "type": "idiom"
+  },
+  {
+    "id": "p8",
+    "phrase": "Call it a day",
+    "meaning": "To stop working for the day.",
+    "example": "We finished the task, so let's call it a day.",
+    "type": "idiom"
+  },
+  {
+    "id": "p9",
+    "phrase": "Get the hang of it",
+    "meaning": "To learn how to do something.",
+    "example": "Don't worry, you'll get the hang of it soon.",
+    "type": "idiom"
+  },
+  {
+    "id": "p10",
+    "phrase": "Cut to the chase",
+    "meaning": "To get to the main point quickly.",
+    "example": "Let me cut to the chase - we need more time.",
+    "type": "idiom"
+  },
+  {
+    "id": "p11",
+    "phrase": "A blessing in disguise",
+    "meaning": "A good thing that seemed bad at first.",
+    "example": "Losing that job was a blessing in disguise.",
+    "type": "idiom"
+  },
+  {
+    "id": "p12",
+    "phrase": "Bite the bullet",
+    "meaning": "To do something difficult that you've been avoiding.",
+    "example": "I bit the bullet and finally called the dentist.",
+    "type": "idiom"
+  },
+  {
+    "id": "p13",
+    "phrase": "The ball is in your court",
+    "meaning": "It's your turn to decide or act.",
+    "example": "I've done my part; now the ball is in your court.",
+    "type": "idiom"
+  },
+  {
+    "id": "p14",
+    "phrase": "Speak of the devil",
+    "meaning": "Said when a person you were talking about appears.",
+    "example": "Speak of the devil - here he comes!",
+    "type": "idiom"
+  },
+  {
+    "id": "p15",
+    "phrase": "Pull yourself together",
+    "meaning": "To calm down and control your emotions.",
+    "example": "Pull yourself together; it will be fine.",
+    "type": "idiom"
+  },
+  {
+    "id": "p16",
+    "phrase": "A far cry from",
+    "meaning": "Very different from.",
+    "example": "This city is a far cry from my village.",
+    "type": "idiom"
+  },
+  {
+    "id": "p17",
+    "phrase": "In the long run",
+    "meaning": "Over a long period of time; eventually.",
+    "example": "Saving money helps in the long run.",
+    "type": "phrase"
+  },
+  {
+    "id": "p18",
+    "phrase": "For the time being",
+    "meaning": "For now; temporarily.",
+    "example": "For the time being, let's use this plan.",
+    "type": "phrase"
+  },
+  {
+    "id": "p19",
+    "phrase": "As far as I know",
+    "meaning": "Based on what I know.",
+    "example": "As far as I know, the office is closed today.",
+    "type": "phrase"
+  },
+  {
+    "id": "p20",
+    "phrase": "To be honest",
+    "meaning": "Used to say something truthfully.",
+    "example": "To be honest, I didn't like the movie.",
+    "type": "phrase"
+  },
+  {
+    "id": "p21",
+    "phrase": "By the way",
+    "meaning": "Used to add extra information.",
+    "example": "By the way, did you finish the report?",
+    "type": "phrase"
+  },
+  {
+    "id": "p22",
+    "phrase": "In my opinion",
+    "meaning": "Used to give your view.",
+    "example": "In my opinion, we should wait.",
+    "type": "phrase"
+  },
+  {
+    "id": "p23",
+    "phrase": "Keep in mind",
+    "meaning": "To remember something.",
+    "example": "Keep in mind that the deadline is Friday.",
+    "type": "phrase"
+  },
+  {
+    "id": "p24",
+    "phrase": "Make up your mind",
+    "meaning": "To decide.",
+    "example": "Please make up your mind quickly.",
+    "type": "phrase"
+  },
+  {
+    "id": "p25",
+    "phrase": "Look forward to",
+    "meaning": "To feel happy about something that will happen.",
+    "example": "I look forward to meeting you.",
+    "type": "phrase"
+  },
+  {
+    "id": "p26",
+    "phrase": "Get along with",
+    "meaning": "To have a good relationship with.",
+    "example": "I get along well with my coworkers.",
+    "type": "phrase"
+  },
+  {
+    "id": "p27",
+    "phrase": "Run out of",
+    "meaning": "To have none left.",
+    "example": "We ran out of milk.",
+    "type": "phrase"
+  },
+  {
+    "id": "p28",
+    "phrase": "Come up with",
+    "meaning": "To think of an idea.",
+    "example": "She came up with a great plan.",
+    "type": "phrase"
+  },
+  {
+    "id": "p29",
+    "phrase": "Look into",
+    "meaning": "To investigate or examine.",
+    "example": "I'll look into the problem.",
+    "type": "phrase"
+  },
+  {
+    "id": "p30",
+    "phrase": "Put off",
+    "meaning": "To postpone; to delay.",
+    "example": "Don't put off your work.",
+    "type": "phrase"
+  },
+  {
+    "id": "p31",
+    "phrase": "Take care of",
+    "meaning": "To look after; to handle.",
+    "example": "I'll take care of it.",
+    "type": "phrase"
+  },
+  {
+    "id": "p32",
+    "phrase": "Figure out",
+    "meaning": "To understand or solve.",
+    "example": "I can't figure out this puzzle.",
+    "type": "phrase"
+  },
+  {
+    "id": "p33",
+    "phrase": "Be about to",
+    "meaning": "Just going to do something.",
+    "example": "I was about to call you.",
+    "type": "phrase"
+  },
+  {
+    "id": "p34",
+    "phrase": "Used to",
+    "meaning": "Something you did regularly in the past.",
+    "example": "I used to play cricket every day.",
+    "type": "phrase"
+  },
+  {
+    "id": "p35",
+    "phrase": "Would rather",
+    "meaning": "To prefer.",
+    "example": "I would rather stay home tonight.",
+    "type": "phrase"
+  },
+  {
+    "id": "p36",
+    "phrase": "As soon as possible",
+    "meaning": "Very quickly; without delay.",
+    "example": "Please reply as soon as possible.",
+    "type": "phrase"
+  },
+  {
+    "id": "p37",
+    "phrase": "On second thought",
+    "meaning": "After thinking again.",
+    "example": "On second thought, let's go tomorrow.",
+    "type": "phrase"
+  },
+  {
+    "id": "p38",
+    "phrase": "No matter what",
+    "meaning": "Whatever happens.",
+    "example": "I'll support you no matter what.",
+    "type": "phrase"
+  },
+  {
+    "id": "p39",
+    "phrase": "Sooner or later",
+    "meaning": "Eventually; at some time.",
+    "example": "He'll understand sooner or later.",
+    "type": "phrase"
+  },
+  {
+    "id": "p40",
+    "phrase": "Take it easy",
+    "meaning": "Relax; don't worry.",
+    "example": "Take it easy, you did your best.",
+    "type": "phrase"
+  },
+  {
+    "id": "p41",
+    "phrase": "Hang in there",
+    "meaning": "Stay strong during a difficult time.",
+    "example": "Hang in there, it will get better.",
+    "type": "idiom"
+  },
+  {
+    "id": "p42",
+    "phrase": "Give it a shot",
+    "meaning": "Try something.",
+    "example": "Why not give it a shot?",
+    "type": "idiom"
+  },
+  {
+    "id": "p43",
+    "phrase": "Keep an eye on",
+    "meaning": "Watch carefully.",
+    "example": "Keep an eye on the baby.",
+    "type": "idiom"
+  },
+  {
+    "id": "p44",
+    "phrase": "Make up your mind",
+    "meaning": "Decide.",
+    "example": "Please make up your mind.",
+    "type": "phrase"
+  },
+  {
+    "id": "p45",
+    "phrase": "Get in touch",
+    "meaning": "Contact someone.",
+    "example": "I'll get in touch soon.",
+    "type": "phrase"
+  },
+  {
+    "id": "p46",
+    "phrase": "Out of the blue",
+    "meaning": "Suddenly, unexpectedly.",
+    "example": "He called me out of the blue.",
+    "type": "idiom"
+  },
+  {
+    "id": "p47",
+    "phrase": "On the go",
+    "meaning": "Very busy; moving around.",
+    "example": "I'm always on the go.",
+    "type": "idiom"
+  },
+  {
+    "id": "p48",
+    "phrase": "A piece of advice",
+    "meaning": "One helpful suggestion.",
+    "example": "Let me give you a piece of advice.",
+    "type": "phrase"
+  },
+  {
+    "id": "p49",
+    "phrase": "Back to square one",
+    "meaning": "Start again from the beginning.",
+    "example": "The plan failed, so we're back to square one.",
+    "type": "idiom"
+  },
+  {
+    "id": "p50",
+    "phrase": "In a nutshell",
+    "meaning": "In short; briefly.",
+    "example": "In a nutshell, we need more time.",
+    "type": "idiom"
+  },
+  {
+    "id": "p51",
+    "phrase": "Sort it out",
+    "meaning": "Solve a problem.",
+    "example": "Don't worry, we'll sort it out.",
+    "type": "phrase"
+  },
+  {
+    "id": "p52",
+    "phrase": "Around the corner",
+    "meaning": "Very near / coming soon.",
+    "example": "Summer is just around the corner.",
+    "type": "idiom"
+  }
+]

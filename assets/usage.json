@@ -1,0 +1,431 @@
+[
+  {
+    "id": "u1",
+    "title": "its vs it's",
+    "subtitle": "Which word to use",
+    "level": "Word Usage",
+    "tip": "it's = it is; its = belonging to it.",
+    "items": [
+      {
+        "point": "it's is short for 'it is' or 'it has'.",
+        "example": "It's raining outside."
+      },
+      {
+        "point": "its shows something belongs to it (no apostrophe).",
+        "example": "The dog wagged its tail."
+      }
+    ]
+  },
+  {
+    "id": "u2",
+    "title": "your vs you're",
+    "subtitle": "Which word to use",
+    "level": "Word Usage",
+    "tip": "you're = you are; your = belonging to you.",
+    "items": [
+      {
+        "point": "you're is short for 'you are'.",
+        "example": "You're very kind."
+      },
+      {
+        "point": "your shows something belongs to you.",
+        "example": "Is this your bag?"
+      }
+    ]
+  },
+  {
+    "id": "u3",
+    "title": "there vs their vs they're",
+    "subtitle": "Which word to use",
+    "level": "Word Usage",
+    "tip": "Place, possession, and 'they are'.",
+    "items": [
+      {
+        "point": "there points to a place.",
+        "example": "Put it over there."
+      },
+      {
+        "point": "their shows belonging to them.",
+        "example": "Their house is big."
+      },
+      {
+        "point": "they're is short for 'they are'.",
+        "example": "They're my friends."
+      }
+    ]
+  },
+  {
+    "id": "u4",
+    "title": "say vs tell",
+    "subtitle": "Which word to use",
+    "level": "Word Usage",
+    "tip": "tell needs a person; say usually does not.",
+    "items": [
+      {
+        "point": "Use tell with a person (tell someone).",
+        "example": "Please tell me the truth."
+      },
+      {
+        "point": "Use say without a person, or with 'to'.",
+        "example": "She said hello. / He said to me..."
+      }
+    ]
+  },
+  {
+    "id": "u5",
+    "title": "do vs make",
+    "subtitle": "Which word to use",
+    "level": "Word Usage",
+    "tip": "make = create; do = actions/tasks.",
+    "items": [
+      {
+        "point": "Use make when you create or produce something.",
+        "example": "She made a cake. / make a decision."
+      },
+      {
+        "point": "Use do for activities and jobs.",
+        "example": "I do my homework. / do the dishes."
+      }
+    ]
+  },
+  {
+    "id": "u6",
+    "title": "much vs many",
+    "subtitle": "Which word to use",
+    "level": "Word Usage",
+    "tip": "many for countable; much for uncountable.",
+    "items": [
+      {
+        "point": "Use many with things you can count.",
+        "example": "How many apples do you want?"
+      },
+      {
+        "point": "Use much with things you cannot count.",
+        "example": "How much time do we have?"
+      }
+    ]
+  },
+  {
+    "id": "u7",
+    "title": "few vs little",
+    "subtitle": "Which word to use",
+    "level": "Word Usage",
+    "tip": "few for countable; little for uncountable.",
+    "items": [
+      {
+        "point": "Use few / a few with countable nouns.",
+        "example": "I have a few friends here."
+      },
+      {
+        "point": "Use little / a little with uncountable nouns.",
+        "example": "There is a little water left."
+      }
+    ]
+  },
+  {
+    "id": "u8",
+    "title": "since vs for",
+    "subtitle": "Which word to use",
+    "level": "Word Usage",
+    "tip": "since = a point; for = a period.",
+    "items": [
+      {
+        "point": "Use since with a starting point in time.",
+        "example": "I have lived here since 2019."
+      },
+      {
+        "point": "Use for with a length of time.",
+        "example": "I have lived here for five years."
+      }
+    ]
+  },
+  {
+    "id": "u9",
+    "title": "affect vs effect",
+    "subtitle": "Which word to use",
+    "level": "Word Usage",
+    "tip": "affect = verb; effect = noun.",
+    "items": [
+      {
+        "point": "affect is usually a verb (to change something).",
+        "example": "The rain affected our plans."
+      },
+      {
+        "point": "effect is usually a noun (the result).",
+        "example": "The medicine had a good effect."
+      }
+    ]
+  },
+  {
+    "id": "u10",
+    "title": "borrow vs lend",
+    "subtitle": "Which word to use",
+    "level": "Word Usage",
+    "tip": "borrow = take; lend = give.",
+    "items": [
+      {
+        "point": "You borrow something FROM someone (you take it).",
+        "example": "Can I borrow your pen?"
+      },
+      {
+        "point": "You lend something TO someone (you give it).",
+        "example": "Can you lend me your pen?"
+      }
+    ]
+  },
+  {
+    "id": "u11",
+    "title": "good vs well",
+    "subtitle": "Which word to use",
+    "level": "Word Usage",
+    "tip": "good describes a noun; well describes a verb.",
+    "items": [
+      {
+        "point": "good is an adjective (describes a thing/person).",
+        "example": "She is a good singer."
+      },
+      {
+        "point": "well is an adverb (describes how you do something).",
+        "example": "She sings well."
+      }
+    ]
+  },
+  {
+    "id": "u12",
+    "title": "bring vs take",
+    "subtitle": "Which word to use",
+    "level": "Word Usage",
+    "tip": "bring = toward here; take = away from here.",
+    "items": [
+      {
+        "point": "Use bring for movement toward the speaker.",
+        "example": "Please bring the book to me."
+      },
+      {
+        "point": "Use take for movement away from the speaker.",
+        "example": "Take this letter to the office."
+      }
+    ]
+  },
+  {
+    "id": "u13",
+    "title": "some vs any",
+    "subtitle": "Which word to use",
+    "level": "Word Usage",
+    "tip": "some in positives; any in questions/negatives.",
+    "items": [
+      {
+        "point": "Use some in positive sentences and offers.",
+        "example": "I have some questions. / Would you like some tea?"
+      },
+      {
+        "point": "Use any in questions and negatives.",
+        "example": "Do you have any money? / I don't have any."
+      }
+    ]
+  },
+  {
+    "id": "u14",
+    "title": "learn vs teach",
+    "subtitle": "Which word to use",
+    "level": "Word Usage",
+    "tip": "learn = get knowledge; teach = give it.",
+    "items": [
+      {
+        "point": "You learn something (you receive knowledge).",
+        "example": "I am learning English."
+      },
+      {
+        "point": "You teach someone (you give knowledge).",
+        "example": "She teaches English to children."
+      }
+    ]
+  },
+  {
+    "id": "u15",
+    "title": "between vs among",
+    "subtitle": "Which word to use",
+    "level": "Word Usage",
+    "tip": "between = two; among = three or more.",
+    "items": [
+      {
+        "point": "Use between for two things or people.",
+        "example": "Sit between Ram and Sita."
+      },
+      {
+        "point": "Use among for three or more (a group).",
+        "example": "Share the sweets among the children."
+      }
+    ]
+  },
+  {
+    "id": "u16",
+    "title": "rise vs raise",
+    "subtitle": "Which word to use",
+    "level": "Word Usage",
+    "tip": "rise = go up itself; raise = lift something.",
+    "items": [
+      {
+        "point": "rise means to go up by itself (no object).",
+        "example": "The sun rises in the east."
+      },
+      {
+        "point": "raise means to lift something up (needs an object).",
+        "example": "Please raise your hand."
+      }
+    ]
+  },
+  {
+    "id": "u17",
+    "title": "fun vs funny",
+    "subtitle": "Which word to use",
+    "level": "Word Usage",
+    "tip": "fun = enjoyable; funny = makes you laugh.",
+    "items": [
+      {
+        "point": "fun means enjoyable or pleasant.",
+        "example": "The party was a lot of fun."
+      },
+      {
+        "point": "funny means it makes you laugh (or is strange).",
+        "example": "He told a funny joke."
+      }
+    ]
+  },
+  {
+    "id": "u18",
+    "title": "advice vs advise",
+    "subtitle": "Which word to use",
+    "level": "Word Usage",
+    "tip": "advice = noun; advise = verb.",
+    "items": [
+      {
+        "point": "advice is a noun (uncountable).",
+        "example": "She gave me good advice."
+      },
+      {
+        "point": "advise is a verb (to give advice).",
+        "example": "I advise you to rest."
+      }
+    ]
+  },
+  {
+    "id": "u19",
+    "title": "this vs that",
+    "subtitle": "Which word to use",
+    "level": "Word Usage",
+    "tip": "this = near; that = far.",
+    "items": [
+      {
+        "point": "Use this for something near you.",
+        "example": "This is my phone (in my hand)."
+      },
+      {
+        "point": "Use that for something farther away.",
+        "example": "That is your car (over there)."
+      }
+    ]
+  },
+  {
+    "id": "u20",
+    "title": "who vs whom",
+    "subtitle": "Which word to use",
+    "level": "Word Usage",
+    "tip": "who = subject; whom = object.",
+    "items": [
+      {
+        "point": "Use who for the person doing the action.",
+        "example": "Who called you?"
+      },
+      {
+        "point": "Use whom for the person receiving the action (formal).",
+        "example": "Whom did you call?"
+      }
+    ]
+  },
+  {
+    "id": "u21",
+    "title": "remember vs remind",
+    "subtitle": "Which word to use",
+    "level": "Word Usage",
+    "tip": "remember yourself; remind someone.",
+    "items": [
+      {
+        "point": "You remember something by yourself.",
+        "example": "I remember his name."
+      },
+      {
+        "point": "You remind someone else.",
+        "example": "Please remind me to call him."
+      }
+    ]
+  },
+  {
+    "id": "u22",
+    "title": "hear vs listen",
+    "subtitle": "Which word to use",
+    "level": "Word Usage",
+    "tip": "hear = by chance; listen = on purpose.",
+    "items": [
+      {
+        "point": "Hear happens without trying.",
+        "example": "I hear a noise."
+      },
+      {
+        "point": "Listen means you pay attention.",
+        "example": "Listen to me carefully."
+      }
+    ]
+  },
+  {
+    "id": "u23",
+    "title": "travel vs trip vs journey",
+    "subtitle": "Which word to use",
+    "level": "Word Usage",
+    "tip": "travel = general; trip/journey = one event.",
+    "items": [
+      {
+        "point": "Travel is the general activity (usually uncountable).",
+        "example": "I love travel."
+      },
+      {
+        "point": "A trip or journey is one particular event.",
+        "example": "We had a nice trip to Goa."
+      }
+    ]
+  },
+  {
+    "id": "u24",
+    "title": "lay vs lie",
+    "subtitle": "Which word to use",
+    "level": "Word Usage",
+    "tip": "lay needs an object; lie does not.",
+    "items": [
+      {
+        "point": "Lay means to put something down (needs an object).",
+        "example": "Lay the book on the table."
+      },
+      {
+        "point": "Lie means to rest / be in a position (no object).",
+        "example": "I want to lie down."
+      }
+    ]
+  },
+  {
+    "id": "u25",
+    "title": "win vs beat",
+    "subtitle": "Which word to use",
+    "level": "Word Usage",
+    "tip": "win a game/prize; beat a person/team.",
+    "items": [
+      {
+        "point": "You win a match, a prize, or a game.",
+        "example": "We won the match."
+      },
+      {
+        "point": "You beat an opponent.",
+        "example": "We beat the other team."
+      }
+    ]
+  }
+]

@@ -1,0 +1,730 @@
+[
+  {
+    "id": "w1",
+    "word": "Eloquent",
+    "say": "EL-uh-kwuhnt",
+    "meaning": "Speaking clearly and in a powerful, convincing way.",
+    "example": "She gave an eloquent speech that moved everyone.",
+    "level": "Advanced"
+  },
+  {
+    "id": "w2",
+    "word": "Meticulous",
+    "say": "muh-TIK-yuh-luhs",
+    "meaning": "Very careful and paying great attention to detail.",
+    "example": "He is meticulous about checking his work for errors.",
+    "level": "Advanced"
+  },
+  {
+    "id": "w3",
+    "word": "Ambiguous",
+    "say": "am-BIG-yoo-uhs",
+    "meaning": "Having more than one possible meaning; unclear.",
+    "example": "Her answer was ambiguous, so I asked her to explain.",
+    "level": "Advanced"
+  },
+  {
+    "id": "w4",
+    "word": "Resilient",
+    "say": "ri-ZIL-yuhnt",
+    "meaning": "Able to recover quickly from difficulties; tough.",
+    "example": "She stayed resilient even after losing her job.",
+    "level": "Intermediate"
+  },
+  {
+    "id": "w5",
+    "word": "Inevitable",
+    "say": "in-EV-i-tuh-buhl",
+    "meaning": "Certain to happen; unavoidable.",
+    "example": "Change is inevitable, so we must adapt.",
+    "level": "Advanced"
+  },
+  {
+    "id": "w6",
+    "word": "Pragmatic",
+    "say": "prag-MAT-ik",
+    "meaning": "Practical; dealing with things in a sensible, realistic way.",
+    "example": "We need a pragmatic solution, not a perfect one.",
+    "level": "Advanced"
+  },
+  {
+    "id": "w7",
+    "word": "Diligent",
+    "say": "DIL-i-juhnt",
+    "meaning": "Working hard and carefully.",
+    "example": "A diligent student reviews notes every day.",
+    "level": "Intermediate"
+  },
+  {
+    "id": "w8",
+    "word": "Candid",
+    "say": "KAN-did",
+    "meaning": "Honest and direct in what you say.",
+    "example": "Thank you for your candid feedback.",
+    "level": "Intermediate"
+  },
+  {
+    "id": "w9",
+    "word": "Versatile",
+    "say": "VUR-suh-tuhl",
+    "meaning": "Able to do many things well; adaptable.",
+    "example": "She is a versatile employee who handles many tasks.",
+    "level": "Intermediate"
+  },
+  {
+    "id": "w10",
+    "word": "Tedious",
+    "say": "TEE-dee-uhs",
+    "meaning": "Boring and taking a long time.",
+    "example": "Filling out forms can be a tedious task.",
+    "level": "Intermediate"
+  },
+  {
+    "id": "w11",
+    "word": "Concise",
+    "say": "kuhn-SYSS",
+    "meaning": "Short and clear, using few words.",
+    "example": "Please keep your report concise.",
+    "level": "Intermediate"
+  },
+  {
+    "id": "w12",
+    "word": "Genuine",
+    "say": "JEN-yoo-in",
+    "meaning": "Real and sincere; not fake.",
+    "example": "She showed genuine interest in the project.",
+    "level": "Beginner"
+  },
+  {
+    "id": "w13",
+    "word": "Reluctant",
+    "say": "ri-LUK-tuhnt",
+    "meaning": "Not willing to do something; hesitant.",
+    "example": "He was reluctant to speak in public.",
+    "level": "Intermediate"
+  },
+  {
+    "id": "w14",
+    "word": "Persistent",
+    "say": "puhr-SIS-tuhnt",
+    "meaning": "Continuing firmly despite difficulty.",
+    "example": "Her persistent effort finally paid off.",
+    "level": "Intermediate"
+  },
+  {
+    "id": "w15",
+    "word": "Adequate",
+    "say": "AD-i-kwuht",
+    "meaning": "Enough; good enough for the purpose.",
+    "example": "We have adequate time to finish this.",
+    "level": "Intermediate"
+  },
+  {
+    "id": "w16",
+    "word": "Obscure",
+    "say": "uhb-SKYOOR",
+    "meaning": "Not well known or hard to understand.",
+    "example": "He used an obscure word I had never heard.",
+    "level": "Advanced"
+  },
+  {
+    "id": "w17",
+    "word": "Feasible",
+    "say": "FEE-zuh-buhl",
+    "meaning": "Possible to do easily or conveniently.",
+    "example": "Is it feasible to launch next month?",
+    "level": "Advanced"
+  },
+  {
+    "id": "w18",
+    "word": "Blunt",
+    "say": "BLUNT",
+    "meaning": "Saying what you think very directly, sometimes rudely.",
+    "example": "To be blunt, the plan will not work.",
+    "level": "Intermediate"
+  },
+  {
+    "id": "w19",
+    "word": "Sincere",
+    "say": "sin-SEER",
+    "meaning": "Honest and truly meaning what you say.",
+    "example": "Please accept my sincere apology.",
+    "level": "Beginner"
+  },
+  {
+    "id": "w20",
+    "word": "Empathy",
+    "say": "EM-puh-thee",
+    "meaning": "The ability to understand how others feel.",
+    "example": "A good leader shows empathy for the team.",
+    "level": "Intermediate"
+  },
+  {
+    "id": "w21",
+    "word": "Procrastinate",
+    "say": "pruh-KRAS-tuh-nayt",
+    "meaning": "To delay doing something you should do.",
+    "example": "Don't procrastinate; start the work today.",
+    "level": "Advanced"
+  },
+  {
+    "id": "w22",
+    "word": "Optimistic",
+    "say": "op-tuh-MIS-tik",
+    "meaning": "Hopeful and positive about the future.",
+    "example": "She is optimistic about the results.",
+    "level": "Beginner"
+  },
+  {
+    "id": "w23",
+    "word": "Reliable",
+    "say": "ri-LY-uh-buhl",
+    "meaning": "Able to be trusted; dependable.",
+    "example": "He is a reliable friend who always helps.",
+    "level": "Beginner"
+  },
+  {
+    "id": "w24",
+    "word": "Efficient",
+    "say": "i-FISH-uhnt",
+    "meaning": "Working well without wasting time or energy.",
+    "example": "This is a fast and efficient method.",
+    "level": "Beginner"
+  },
+  {
+    "id": "w25",
+    "word": "Curious",
+    "say": "KYOOR-ee-uhs",
+    "meaning": "Wanting to know or learn something.",
+    "example": "Children are naturally curious.",
+    "level": "Beginner"
+  },
+  {
+    "id": "w26",
+    "word": "Humble",
+    "say": "HUM-buhl",
+    "meaning": "Not proud; modest about yourself.",
+    "example": "Despite his success, he stayed humble.",
+    "level": "Beginner"
+  },
+  {
+    "id": "w27",
+    "word": "Vague",
+    "say": "VAYG",
+    "meaning": "Not clear or exact.",
+    "example": "His instructions were too vague to follow.",
+    "level": "Intermediate"
+  },
+  {
+    "id": "w28",
+    "word": "Cautious",
+    "say": "KAW-shuhs",
+    "meaning": "Careful to avoid problems or danger.",
+    "example": "Be cautious when crossing the road.",
+    "level": "Beginner"
+  },
+  {
+    "id": "w29",
+    "word": "Generous",
+    "say": "JEN-uh-ruhs",
+    "meaning": "Happy to give more than is needed.",
+    "example": "She is generous with her time.",
+    "level": "Beginner"
+  },
+  {
+    "id": "w30",
+    "word": "Confident",
+    "say": "KON-fi-duhnt",
+    "meaning": "Sure of yourself and your abilities.",
+    "example": "Speak with a confident voice.",
+    "level": "Beginner"
+  },
+  {
+    "id": "w31",
+    "word": "Anxious",
+    "say": "ANGK-shuhs",
+    "meaning": "Worried or nervous.",
+    "example": "I felt anxious before the interview.",
+    "level": "Intermediate"
+  },
+  {
+    "id": "w32",
+    "word": "Grateful",
+    "say": "GRAYT-fuhl",
+    "meaning": "Feeling thankful.",
+    "example": "I am grateful for your help.",
+    "level": "Beginner"
+  },
+  {
+    "id": "w33",
+    "word": "Punctual",
+    "say": "PUNGK-choo-uhl",
+    "meaning": "Arriving or doing things on time.",
+    "example": "Please be punctual for the meeting.",
+    "level": "Intermediate"
+  },
+  {
+    "id": "w34",
+    "word": "Fluent",
+    "say": "FLOO-uhnt",
+    "meaning": "Able to speak a language smoothly and easily.",
+    "example": "She is fluent in English.",
+    "level": "Beginner"
+  },
+  {
+    "id": "w35",
+    "word": "Awkward",
+    "say": "AWK-wuhrd",
+    "meaning": "Causing embarrassment; not comfortable.",
+    "example": "There was an awkward silence.",
+    "level": "Intermediate"
+  },
+  {
+    "id": "w36",
+    "word": "Enthusiastic",
+    "say": "in-thoo-zee-AS-tik",
+    "meaning": "Showing great excitement and interest.",
+    "example": "He was enthusiastic about the new idea.",
+    "level": "Intermediate"
+  },
+  {
+    "id": "w37",
+    "word": "Modest",
+    "say": "MOD-ist",
+    "meaning": "Not talking too much about your own abilities.",
+    "example": "She was modest about her achievements.",
+    "level": "Intermediate"
+  },
+  {
+    "id": "w38",
+    "word": "Frustrated",
+    "say": "FRUS-tray-tid",
+    "meaning": "Annoyed because you cannot do something.",
+    "example": "I felt frustrated with the slow internet.",
+    "level": "Beginner"
+  },
+  {
+    "id": "w39",
+    "word": "Sophisticated",
+    "say": "suh-FIS-ti-kay-tid",
+    "meaning": "Advanced and complex; refined.",
+    "example": "It is a sophisticated piece of software.",
+    "level": "Advanced"
+  },
+  {
+    "id": "w40",
+    "word": "Spontaneous",
+    "say": "spon-TAY-nee-uhs",
+    "meaning": "Happening naturally, without planning.",
+    "example": "We took a spontaneous trip on the weekend.",
+    "level": "Advanced"
+  },
+  {
+    "id": "w41",
+    "word": "Thorough",
+    "say": "THUR-oh",
+    "meaning": "Complete and careful; leaving nothing out.",
+    "example": "She did a thorough review of the document.",
+    "level": "Intermediate"
+  },
+  {
+    "id": "w42",
+    "word": "Overwhelmed",
+    "say": "oh-vuhr-WELMD",
+    "meaning": "Feeling that something is too much to handle.",
+    "example": "I felt overwhelmed with so many tasks.",
+    "level": "Intermediate"
+  },
+  {
+    "id": "w43",
+    "word": "Considerate",
+    "say": "kuhn-SID-uhr-it",
+    "meaning": "Caring about other people's feelings.",
+    "example": "It was considerate of you to call.",
+    "level": "Intermediate"
+  },
+  {
+    "id": "w44",
+    "word": "Ambitious",
+    "say": "am-BISH-uhs",
+    "meaning": "Having a strong wish to succeed.",
+    "example": "She is ambitious and works hard.",
+    "level": "Intermediate"
+  },
+  {
+    "id": "w45",
+    "word": "Reasonable",
+    "say": "REE-zuh-nuh-buhl",
+    "meaning": "Fair and sensible.",
+    "example": "That is a reasonable price.",
+    "level": "Beginner"
+  },
+  {
+    "id": "w46",
+    "word": "Straightforward",
+    "say": "strayt-FOR-wuhrd",
+    "meaning": "Simple and easy to understand.",
+    "example": "The instructions were straightforward.",
+    "level": "Intermediate"
+  },
+  {
+    "id": "w47",
+    "word": "Inevitably",
+    "say": "in-EV-i-tuh-blee",
+    "meaning": "In a way that is certain to happen.",
+    "example": "Prices will inevitably rise.",
+    "level": "Advanced"
+  },
+  {
+    "id": "w48",
+    "word": "Convenient",
+    "say": "kuhn-VEEN-yuhnt",
+    "meaning": "Easy and useful; suiting your needs.",
+    "example": "Is 5 pm a convenient time for you?",
+    "level": "Beginner"
+  },
+  {
+    "id": "w49",
+    "word": "Nervous",
+    "say": "NUR-vuhs",
+    "meaning": "Worried and a little afraid.",
+    "example": "I get nervous before speaking.",
+    "level": "Beginner"
+  },
+  {
+    "id": "w50",
+    "word": "Precise",
+    "say": "pri-SYSS",
+    "meaning": "Exact and accurate.",
+    "example": "Give me the precise time, please.",
+    "level": "Intermediate"
+  },
+  {
+    "id": "w51",
+    "word": "Genuinely",
+    "say": "JEN-yoo-in-lee",
+    "meaning": "In a real and honest way.",
+    "example": "I am genuinely happy for you.",
+    "level": "Intermediate"
+  },
+  {
+    "id": "w52",
+    "word": "Assertive",
+    "say": "uh-SUR-tiv",
+    "meaning": "Confident and direct in a positive way.",
+    "example": "Be assertive, but stay polite.",
+    "level": "Advanced"
+  },
+  {
+    "id": "w53",
+    "word": "Compassion",
+    "say": "kuhm-PASH-uhn",
+    "meaning": "A strong feeling of sympathy for others.",
+    "example": "She treats patients with compassion.",
+    "level": "Advanced"
+  },
+  {
+    "id": "w54",
+    "word": "Determined",
+    "say": "di-TUR-mind",
+    "meaning": "Having made a firm decision; not giving up.",
+    "example": "He is determined to pass the exam.",
+    "level": "Intermediate"
+  },
+  {
+    "id": "w55",
+    "word": "Overcome",
+    "say": "oh-vuhr-KUM",
+    "meaning": "To succeed in dealing with a problem.",
+    "example": "She overcame her fear of speaking.",
+    "level": "Intermediate"
+  },
+  {
+    "id": "w56",
+    "word": "Appreciate",
+    "say": "uh-PREE-shee-ayt",
+    "meaning": "To be thankful for; to value.",
+    "example": "I appreciate your support.",
+    "level": "Beginner"
+  },
+  {
+    "id": "w57",
+    "word": "Encourage",
+    "say": "in-KUR-ij",
+    "meaning": "To give someone confidence or hope.",
+    "example": "Good teachers encourage their students.",
+    "level": "Beginner"
+  },
+  {
+    "id": "w58",
+    "word": "Familiar",
+    "say": "fuh-MIL-yuhr",
+    "meaning": "Well known to you.",
+    "example": "This place looks familiar.",
+    "level": "Beginner"
+  },
+  {
+    "id": "w59",
+    "word": "Reluctantly",
+    "say": "ri-LUK-tuhnt-lee",
+    "meaning": "In an unwilling way.",
+    "example": "He reluctantly agreed to help.",
+    "level": "Advanced"
+  },
+  {
+    "id": "w60",
+    "word": "Improvise",
+    "say": "IM-pruh-vyz",
+    "meaning": "To do something without preparation.",
+    "example": "When the plan failed, we had to improvise.",
+    "level": "Advanced"
+  },
+  {
+    "id": "w61",
+    "word": "Perspective",
+    "say": "puhr-SPEK-tiv",
+    "meaning": "A particular way of thinking about something.",
+    "example": "Try to see it from her perspective.",
+    "level": "Intermediate"
+  },
+  {
+    "id": "w62",
+    "word": "Accomplish",
+    "say": "uh-KOM-plish",
+    "meaning": "To succeed in doing something.",
+    "example": "She accomplished her goal.",
+    "level": "Intermediate"
+  },
+  {
+    "id": "w63",
+    "word": "Hesitate",
+    "say": "HEZ-i-tayt",
+    "meaning": "To pause before doing something because you are unsure.",
+    "example": "Don't hesitate to ask for help.",
+    "level": "Intermediate"
+  },
+  {
+    "id": "w64",
+    "word": "Encourage",
+    "say": "in-KUR-ij",
+    "meaning": "To give someone hope or confidence.",
+    "example": "My teacher encouraged me to try.",
+    "level": "Beginner"
+  },
+  {
+    "id": "w65",
+    "word": "Recommend",
+    "say": "rek-uh-MEND",
+    "meaning": "To suggest something as good.",
+    "example": "I recommend this restaurant.",
+    "level": "Intermediate"
+  },
+  {
+    "id": "w66",
+    "word": "Improve",
+    "say": "im-PROOV",
+    "meaning": "To make or become better.",
+    "example": "I want to improve my English.",
+    "level": "Beginner"
+  },
+  {
+    "id": "w67",
+    "word": "Available",
+    "say": "uh-VAY-luh-buhl",
+    "meaning": "Free to be used or seen.",
+    "example": "Are you available tomorrow?",
+    "level": "Beginner"
+  },
+  {
+    "id": "w68",
+    "word": "Convince",
+    "say": "kuhn-VINS",
+    "meaning": "To make someone believe or agree.",
+    "example": "He convinced me to join.",
+    "level": "Intermediate"
+  },
+  {
+    "id": "w69",
+    "word": "Appreciate",
+    "say": "uh-PREE-shee-ayt",
+    "meaning": "To be thankful for something.",
+    "example": "I appreciate your help.",
+    "level": "Beginner"
+  },
+  {
+    "id": "w70",
+    "word": "Cooperate",
+    "say": "koh-OP-uh-rayt",
+    "meaning": "To work together with others.",
+    "example": "The team cooperated well.",
+    "level": "Intermediate"
+  },
+  {
+    "id": "w71",
+    "word": "Frequent",
+    "say": "FREE-kwuhnt",
+    "meaning": "Happening often.",
+    "example": "He is a frequent visitor.",
+    "level": "Intermediate"
+  },
+  {
+    "id": "w72",
+    "word": "Sufficient",
+    "say": "suh-FISH-uhnt",
+    "meaning": "Enough for a purpose.",
+    "example": "We have sufficient food.",
+    "level": "Advanced"
+  },
+  {
+    "id": "w73",
+    "word": "Deliberate",
+    "say": "di-LIB-uh-rit",
+    "meaning": "Done on purpose; careful.",
+    "example": "It was a deliberate choice.",
+    "level": "Advanced"
+  },
+  {
+    "id": "w74",
+    "word": "Reluctance",
+    "say": "ri-LUK-tuhns",
+    "meaning": "Unwillingness to do something.",
+    "example": "He agreed with reluctance.",
+    "level": "Advanced"
+  },
+  {
+    "id": "w75",
+    "word": "Endure",
+    "say": "in-DYOOR",
+    "meaning": "To suffer something patiently.",
+    "example": "She endured the pain bravely.",
+    "level": "Advanced"
+  },
+  {
+    "id": "w76",
+    "word": "Genuine",
+    "say": "JEN-yoo-in",
+    "meaning": "Real; not fake.",
+    "example": "This is genuine leather.",
+    "level": "Beginner"
+  },
+  {
+    "id": "w77",
+    "word": "Consistent",
+    "say": "kuhn-SIS-tuhnt",
+    "meaning": "Always behaving the same way.",
+    "example": "Be consistent in your practice.",
+    "level": "Intermediate"
+  },
+  {
+    "id": "w78",
+    "word": "Anticipate",
+    "say": "an-TIS-i-payt",
+    "meaning": "To expect something.",
+    "example": "We anticipate good results.",
+    "level": "Advanced"
+  },
+  {
+    "id": "w79",
+    "word": "Estimate",
+    "say": "ES-ti-mayt",
+    "meaning": "To guess an amount roughly.",
+    "example": "Can you estimate the cost?",
+    "level": "Intermediate"
+  },
+  {
+    "id": "w80",
+    "word": "Contribute",
+    "say": "kuhn-TRIB-yoot",
+    "meaning": "To give a part to something.",
+    "example": "Everyone contributed ideas.",
+    "level": "Intermediate"
+  },
+  {
+    "id": "w81",
+    "word": "Distinguish",
+    "say": "di-STING-gwish",
+    "meaning": "To see the difference between things.",
+    "example": "Can you distinguish the two colors?",
+    "level": "Advanced"
+  },
+  {
+    "id": "w82",
+    "word": "Reliable",
+    "say": "ri-LY-uh-buhl",
+    "meaning": "Able to be trusted.",
+    "example": "He is a reliable worker.",
+    "level": "Beginner"
+  },
+  {
+    "id": "w83",
+    "word": "Flexible",
+    "say": "FLEK-suh-buhl",
+    "meaning": "Able to change easily.",
+    "example": "My schedule is flexible.",
+    "level": "Beginner"
+  },
+  {
+    "id": "w84",
+    "word": "Motivate",
+    "say": "MOH-ti-vayt",
+    "meaning": "To make someone want to do something.",
+    "example": "Good goals motivate us.",
+    "level": "Intermediate"
+  },
+  {
+    "id": "w85",
+    "word": "Obstacle",
+    "say": "OB-stuh-kuhl",
+    "meaning": "Something that blocks your way.",
+    "example": "She overcame every obstacle.",
+    "level": "Intermediate"
+  },
+  {
+    "id": "w86",
+    "word": "Priority",
+    "say": "pry-OR-i-tee",
+    "meaning": "Something that is most important.",
+    "example": "Safety is our top priority.",
+    "level": "Intermediate"
+  },
+  {
+    "id": "w87",
+    "word": "Sincere",
+    "say": "sin-SEER",
+    "meaning": "Honest and truly meant.",
+    "example": "Please accept my sincere thanks.",
+    "level": "Beginner"
+  },
+  {
+    "id": "w88",
+    "word": "Adapt",
+    "say": "uh-DAPT",
+    "meaning": "To change to fit a new situation.",
+    "example": "We must adapt to change.",
+    "level": "Intermediate"
+  },
+  {
+    "id": "w89",
+    "word": "Emphasize",
+    "say": "EM-fuh-syz",
+    "meaning": "To give special importance to something.",
+    "example": "She emphasized the deadline.",
+    "level": "Advanced"
+  },
+  {
+    "id": "w90",
+    "word": "Reluctant",
+    "say": "ri-LUK-tuhnt",
+    "meaning": "Not willing.",
+    "example": "I was reluctant to leave.",
+    "level": "Intermediate"
+  },
+  {
+    "id": "w91",
+    "word": "Overcome",
+    "say": "oh-vuhr-KUM",
+    "meaning": "To succeed in dealing with a problem.",
+    "example": "He overcame his fear.",
+    "level": "Intermediate"
+  }
+]

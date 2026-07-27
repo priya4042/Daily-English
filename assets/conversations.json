@@ -1,0 +1,622 @@
+[
+  {
+    "id": "c1",
+    "title": "Meeting Someone New",
+    "situation": "Small talk at an event",
+    "level": "Beginner",
+    "lines": [
+      {
+        "s": "A",
+        "text": "Hi, I don't think we've met. I'm Priya."
+      },
+      {
+        "s": "B",
+        "text": "Hi Priya, nice to meet you. I'm Aman."
+      },
+      {
+        "s": "A",
+        "text": "Nice to meet you too. So, what do you do?"
+      },
+      {
+        "s": "B",
+        "text": "I'm a software developer. How about you?"
+      },
+      {
+        "s": "A",
+        "text": "I work in marketing. How do you know the host?"
+      },
+      {
+        "s": "B",
+        "text": "We went to college together. It's a small world!"
+      }
+    ]
+  },
+  {
+    "id": "c2",
+    "title": "At a Coffee Shop",
+    "situation": "Ordering a drink",
+    "level": "Beginner",
+    "lines": [
+      {
+        "s": "A",
+        "text": "Hi, what can I get for you?"
+      },
+      {
+        "s": "B",
+        "text": "Could I get a cappuccino, please?"
+      },
+      {
+        "s": "A",
+        "text": "Sure. Would you like a small or large?"
+      },
+      {
+        "s": "B",
+        "text": "A large, please. And a piece of cake."
+      },
+      {
+        "s": "A",
+        "text": "Great. That will be 250 rupees."
+      },
+      {
+        "s": "B",
+        "text": "Here you go. Thank you!"
+      }
+    ]
+  },
+  {
+    "id": "c3",
+    "title": "Asking for Directions",
+    "situation": "Finding your way",
+    "level": "Beginner",
+    "lines": [
+      {
+        "s": "A",
+        "text": "Excuse me, could you help me?"
+      },
+      {
+        "s": "B",
+        "text": "Of course. What are you looking for?"
+      },
+      {
+        "s": "A",
+        "text": "How do I get to the railway station?"
+      },
+      {
+        "s": "B",
+        "text": "Go straight and turn left at the traffic light."
+      },
+      {
+        "s": "A",
+        "text": "Is it far from here?"
+      },
+      {
+        "s": "B",
+        "text": "No, just a five-minute walk. You can't miss it."
+      },
+      {
+        "s": "A",
+        "text": "Thank you so much!"
+      }
+    ]
+  },
+  {
+    "id": "c4",
+    "title": "On the Phone",
+    "situation": "Making a call",
+    "level": "Beginner",
+    "lines": [
+      {
+        "s": "A",
+        "text": "Hello, this is Priya speaking."
+      },
+      {
+        "s": "B",
+        "text": "Hi Priya, it's Aman. Is this a good time to talk?"
+      },
+      {
+        "s": "A",
+        "text": "Yes, go ahead. How can I help?"
+      },
+      {
+        "s": "B",
+        "text": "I wanted to ask about tomorrow's meeting."
+      },
+      {
+        "s": "A",
+        "text": "Sure. It's at 11 am in the main office."
+      },
+      {
+        "s": "B",
+        "text": "Perfect. Thanks a lot. See you then!"
+      }
+    ]
+  },
+  {
+    "id": "c5",
+    "title": "At the Doctor",
+    "situation": "Explaining a problem",
+    "level": "Intermediate",
+    "lines": [
+      {
+        "s": "A",
+        "text": "Good morning. What seems to be the problem?"
+      },
+      {
+        "s": "B",
+        "text": "I've had a bad headache for two days."
+      },
+      {
+        "s": "A",
+        "text": "I see. Do you have a fever as well?"
+      },
+      {
+        "s": "B",
+        "text": "A little. I also feel very tired."
+      },
+      {
+        "s": "A",
+        "text": "Okay. I'll prescribe some medicine. Get plenty of rest."
+      },
+      {
+        "s": "B",
+        "text": "Thank you, doctor. How often should I take it?"
+      },
+      {
+        "s": "A",
+        "text": "Twice a day, after meals."
+      }
+    ]
+  },
+  {
+    "id": "c6",
+    "title": "A Job Interview",
+    "situation": "Answering common questions",
+    "level": "Intermediate",
+    "lines": [
+      {
+        "s": "A",
+        "text": "Thanks for coming in. Tell me a little about yourself."
+      },
+      {
+        "s": "B",
+        "text": "Sure. I have three years of experience in sales."
+      },
+      {
+        "s": "A",
+        "text": "Why do you want to work with us?"
+      },
+      {
+        "s": "B",
+        "text": "I admire your company and want to grow my skills here."
+      },
+      {
+        "s": "A",
+        "text": "What are your strengths?"
+      },
+      {
+        "s": "B",
+        "text": "I'm hardworking and I communicate well with the team."
+      },
+      {
+        "s": "A",
+        "text": "Great. Do you have any questions for us?"
+      },
+      {
+        "s": "B",
+        "text": "Yes, what does a typical day look like in this role?"
+      }
+    ]
+  },
+  {
+    "id": "c7",
+    "title": "Shopping for Clothes",
+    "situation": "In a store",
+    "level": "Intermediate",
+    "lines": [
+      {
+        "s": "A",
+        "text": "Hello, can I help you find anything?"
+      },
+      {
+        "s": "B",
+        "text": "Yes, I'm looking for a blue shirt."
+      },
+      {
+        "s": "A",
+        "text": "Sure. What size are you?"
+      },
+      {
+        "s": "B",
+        "text": "Medium, please. Do you have this one in medium?"
+      },
+      {
+        "s": "A",
+        "text": "Let me check. Yes, here you are."
+      },
+      {
+        "s": "B",
+        "text": "Can I try it on?"
+      },
+      {
+        "s": "A",
+        "text": "Of course, the changing room is over there."
+      }
+    ]
+  },
+  {
+    "id": "c8",
+    "title": "Making Plans with a Friend",
+    "situation": "Deciding what to do",
+    "level": "Intermediate",
+    "lines": [
+      {
+        "s": "A",
+        "text": "Hey, are you free this weekend?"
+      },
+      {
+        "s": "B",
+        "text": "I think so. What do you have in mind?"
+      },
+      {
+        "s": "A",
+        "text": "How about we watch a movie on Saturday?"
+      },
+      {
+        "s": "B",
+        "text": "Sounds good! What time works for you?"
+      },
+      {
+        "s": "A",
+        "text": "Let's meet at 6 pm outside the mall."
+      },
+      {
+        "s": "B",
+        "text": "Perfect. See you then. Can't wait!"
+      }
+    ]
+  },
+  {
+    "id": "c9",
+    "title": "At Work: Asking for Help",
+    "situation": "Talking to a colleague",
+    "level": "Intermediate",
+    "lines": [
+      {
+        "s": "A",
+        "text": "Hi, do you have a minute?"
+      },
+      {
+        "s": "B",
+        "text": "Sure, what's up?"
+      },
+      {
+        "s": "A",
+        "text": "I'm stuck on this report. Could you give me a hand?"
+      },
+      {
+        "s": "B",
+        "text": "No problem. Let me take a look."
+      },
+      {
+        "s": "A",
+        "text": "Thanks. I really appreciate it."
+      },
+      {
+        "s": "B",
+        "text": "Anytime. Let's go through it together."
+      }
+    ]
+  },
+  {
+    "id": "c10",
+    "title": "Solving a Disagreement",
+    "situation": "Staying polite",
+    "level": "Advanced",
+    "lines": [
+      {
+        "s": "A",
+        "text": "I think we should launch the product next week."
+      },
+      {
+        "s": "B",
+        "text": "I see your point, but I'm afraid it's too soon."
+      },
+      {
+        "s": "A",
+        "text": "Why do you say that?"
+      },
+      {
+        "s": "B",
+        "text": "We still need more testing to avoid problems."
+      },
+      {
+        "s": "A",
+        "text": "That's a fair point. What do you suggest?"
+      },
+      {
+        "s": "B",
+        "text": "Let's push it back by two weeks to be safe."
+      },
+      {
+        "s": "A",
+        "text": "Alright, that makes sense. Let's do that."
+      }
+    ]
+  },
+  {
+    "id": "c11",
+    "title": "Complaining Politely",
+    "situation": "At a hotel",
+    "level": "Advanced",
+    "lines": [
+      {
+        "s": "A",
+        "text": "Good evening. How can I help you?"
+      },
+      {
+        "s": "B",
+        "text": "I'm sorry to bother you, but the AC in my room isn't working."
+      },
+      {
+        "s": "A",
+        "text": "Oh, I apologize for the inconvenience."
+      },
+      {
+        "s": "B",
+        "text": "Would it be possible to fix it or change my room?"
+      },
+      {
+        "s": "A",
+        "text": "Of course. I'll send someone right away."
+      },
+      {
+        "s": "B",
+        "text": "Thank you. I really appreciate your help."
+      }
+    ]
+  },
+  {
+    "id": "c12",
+    "title": "A Business Meeting",
+    "situation": "Sharing ideas",
+    "level": "Advanced",
+    "lines": [
+      {
+        "s": "A",
+        "text": "Thanks everyone for joining. Let's get started."
+      },
+      {
+        "s": "B",
+        "text": "Sure. I'd like to share the sales numbers first."
+      },
+      {
+        "s": "A",
+        "text": "Please go ahead."
+      },
+      {
+        "s": "B",
+        "text": "Sales are up by 20 percent this quarter."
+      },
+      {
+        "s": "A",
+        "text": "That's excellent news. What's driving the growth?"
+      },
+      {
+        "s": "B",
+        "text": "Mainly our new online campaign."
+      },
+      {
+        "s": "A",
+        "text": "Great work. Let's discuss how we can build on that."
+      }
+    ]
+  },
+  {
+    "id": "c13",
+    "title": "At the Bank",
+    "situation": "Opening an account",
+    "level": "Intermediate",
+    "lines": [
+      {
+        "s": "A",
+        "text": "Good morning. How can I help you?"
+      },
+      {
+        "s": "B",
+        "text": "Hi, I'd like to open a savings account."
+      },
+      {
+        "s": "A",
+        "text": "Sure. Do you have your ID and address proof?"
+      },
+      {
+        "s": "B",
+        "text": "Yes, here they are."
+      },
+      {
+        "s": "A",
+        "text": "Great. Please fill out this form."
+      },
+      {
+        "s": "B",
+        "text": "Okay. How long will it take?"
+      },
+      {
+        "s": "A",
+        "text": "Your account will be ready in about ten minutes."
+      }
+    ]
+  },
+  {
+    "id": "c14",
+    "title": "Renting a Flat",
+    "situation": "Talking to a landlord",
+    "level": "Intermediate",
+    "lines": [
+      {
+        "s": "A",
+        "text": "Hello, I'm calling about the flat for rent."
+      },
+      {
+        "s": "B",
+        "text": "Yes, it's still available. Would you like to see it?"
+      },
+      {
+        "s": "A",
+        "text": "That would be great. How much is the rent?"
+      },
+      {
+        "s": "B",
+        "text": "It's fifteen thousand a month, plus a deposit."
+      },
+      {
+        "s": "A",
+        "text": "Are utilities included?"
+      },
+      {
+        "s": "B",
+        "text": "Water is included, but electricity is separate."
+      },
+      {
+        "s": "A",
+        "text": "I see. Can I visit it this weekend?"
+      }
+    ]
+  },
+  {
+    "id": "c15",
+    "title": "Greeting a Guest",
+    "situation": "Being a good host",
+    "level": "Beginner",
+    "lines": [
+      {
+        "s": "A",
+        "text": "Welcome! Please come in."
+      },
+      {
+        "s": "B",
+        "text": "Thank you for having me."
+      },
+      {
+        "s": "A",
+        "text": "Can I get you something to drink?"
+      },
+      {
+        "s": "B",
+        "text": "A glass of water would be lovely, thanks."
+      },
+      {
+        "s": "A",
+        "text": "Please, make yourself at home."
+      },
+      {
+        "s": "B",
+        "text": "You have a beautiful house."
+      }
+    ]
+  },
+  {
+    "id": "c16",
+    "title": "Returning a Product",
+    "situation": "At a shop",
+    "level": "Intermediate",
+    "lines": [
+      {
+        "s": "A",
+        "text": "Hi, I'd like to return this shirt."
+      },
+      {
+        "s": "B",
+        "text": "Sure. Is there a problem with it?"
+      },
+      {
+        "s": "A",
+        "text": "Yes, it's the wrong size."
+      },
+      {
+        "s": "B",
+        "text": "No problem. Do you have the receipt?"
+      },
+      {
+        "s": "A",
+        "text": "Yes, here it is."
+      },
+      {
+        "s": "B",
+        "text": "Would you like a refund or an exchange?"
+      },
+      {
+        "s": "A",
+        "text": "An exchange, please. A larger size."
+      }
+    ]
+  },
+  {
+    "id": "c17",
+    "title": "Giving a Compliment",
+    "situation": "Being friendly",
+    "level": "Beginner",
+    "lines": [
+      {
+        "s": "A",
+        "text": "You look great today!"
+      },
+      {
+        "s": "B",
+        "text": "Oh, thank you! That's kind of you."
+      },
+      {
+        "s": "A",
+        "text": "I really like your jacket."
+      },
+      {
+        "s": "B",
+        "text": "Thanks, I got it last week."
+      },
+      {
+        "s": "A",
+        "text": "It suits you very well."
+      },
+      {
+        "s": "B",
+        "text": "You just made my day!"
+      }
+    ]
+  },
+  {
+    "id": "c18",
+    "title": "Networking",
+    "situation": "Talking about your work",
+    "level": "Advanced",
+    "lines": [
+      {
+        "s": "A",
+        "text": "So, what line of work are you in?"
+      },
+      {
+        "s": "B",
+        "text": "I work in digital marketing. And you?"
+      },
+      {
+        "s": "A",
+        "text": "I run a small design studio."
+      },
+      {
+        "s": "B",
+        "text": "That's interesting. How did you get started?"
+      },
+      {
+        "s": "A",
+        "text": "I started freelancing and it grew from there."
+      },
+      {
+        "s": "B",
+        "text": "Impressive. We should stay in touch."
+      },
+      {
+        "s": "A",
+        "text": "Absolutely. Here's my card."
+      }
+    ]
+  }
+]
